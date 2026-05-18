@@ -160,7 +160,7 @@ function App() {
                   outerRadius={100}
                   paddingAngle={5}
                   dataKey="value"
-                  onClick={(data) => setDrilledDesignation(data.name)}
+                  onClick={(data) => setDrilledDesignation(data.name ? String(data.name) : null)}
                   style={{ cursor: 'pointer' }}
                 >
                   {pieData.map((_, index) => (
@@ -192,7 +192,7 @@ function App() {
                   dataKey="avg" 
                   fill="var(--accent-1)" 
                   radius={[4, 4, 0, 0]}
-                  onClick={(data) => { setActiveFilter({ type: 'aero', value: Number(data.name.split(' ')[1]) }); scrollToTable(); }}
+                  onClick={(data) => { if (data.name) { setActiveFilter({ type: 'aero', value: Number(String(data.name).split(' ')[1]) }); scrollToTable(); } }}
                   style={{ cursor: 'pointer' }}
                 >
                   {barData.map((_, index) => (
