@@ -105,7 +105,13 @@ function App() {
     <div className="dashboard-container">
       <header className="header animate-fade-in">
         <div className="header-content">
-          <h1>BLO Mapping Overview NAMPALLY CONSITUENCY</h1>
+          <div className="header-title-container">
+            <h1>BLO Mapping Overview NAMPALLY CONSITUENCY</h1>
+            <div className="data-date-badge">
+              <span className="dot"></span>
+              Data up to 12 May 2026 only
+            </div>
+          </div>
           <div className="header-actions">
              <button className="btn btn-secondary glass-panel"><Download size={16} style={{display: 'inline', marginRight: '6px', verticalAlign: 'text-bottom'}}/> Export PDF</button>
              <button className="btn btn-primary glass-panel"><Download size={16} style={{display: 'inline', marginRight: '6px', verticalAlign: 'text-bottom'}}/> Export CSV</button>
