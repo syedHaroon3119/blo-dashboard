@@ -1,0 +1,2486 @@
+[
+  {
+    "sl_no": 1,
+    "ps_no": 1,
+    "aero": 1,
+    "name": "A.Divya",
+    "designation": "Jr inspector",
+    "mobile": "8179934892",
+    "percentage": 62.16
+  },
+  {
+    "sl_no": 2,
+    "ps_no": 2,
+    "aero": 1,
+    "name": "NIKESH KUMAR",
+    "designation": "Sr Asst",
+    "mobile": "9966891279",
+    "percentage": 24.32
+  },
+  {
+    "sl_no": 3,
+    "ps_no": 3,
+    "aero": 1,
+    "name": "V ASHOK KUMAR",
+    "designation": "Jr Asst",
+    "mobile": "7702984714",
+    "percentage": 33.64
+  },
+  {
+    "sl_no": 4,
+    "ps_no": 4,
+    "aero": 1,
+    "name": "E KIRAN KUMAR",
+    "designation": "Sr.Asst",
+    "mobile": "9346665210",
+    "percentage": 24.6
+  },
+  {
+    "sl_no": 5,
+    "ps_no": 5,
+    "aero": 1,
+    "name": "A ROJA RANI",
+    "designation": "Sr.Asst",
+    "mobile": "9505369222",
+    "percentage": 29.08
+  },
+  {
+    "sl_no": 6,
+    "ps_no": 6,
+    "aero": 1,
+    "name": "R SWAROOPA",
+    "designation": "Sr.Asst",
+    "mobile": "7674072539",
+    "percentage": 33.26
+  },
+  {
+    "sl_no": 7,
+    "ps_no": 7,
+    "aero": 1,
+    "name": "S.BABAIAH",
+    "designation": "SFA",
+    "mobile": "9848092775",
+    "percentage": 26.42
+  },
+  {
+    "sl_no": 8,
+    "ps_no": 8,
+    "aero": 1,
+    "name": "MD SHAOEB",
+    "designation": "Jr Asst",
+    "mobile": "8143445539",
+    "percentage": 24.81
+  },
+  {
+    "sl_no": 9,
+    "ps_no": 9,
+    "aero": 1,
+    "name": "MD YOUSUF",
+    "designation": "Jr Asst",
+    "mobile": "9959402907",
+    "percentage": 22.74
+  },
+  {
+    "sl_no": 10,
+    "ps_no": 10,
+    "aero": 1,
+    "name": "Anees Fathima",
+    "designation": "Record Assistant",
+    "mobile": "7794075598",
+    "percentage": 29.33
+  },
+  {
+    "sl_no": 11,
+    "ps_no": 11,
+    "aero": 1,
+    "name": "SHAIK GHOUSE PASHA",
+    "designation": "ATTENDER",
+    "mobile": "9618721004",
+    "percentage": 30.16
+  },
+  {
+    "sl_no": 12,
+    "ps_no": 12,
+    "aero": 1,
+    "name": "N SUDHEER KUMAR",
+    "designation": "Sr Asst",
+    "mobile": "8247753936",
+    "percentage": 39.9
+  },
+  {
+    "sl_no": 13,
+    "ps_no": 13,
+    "aero": 1,
+    "name": "G Shiva Kumar",
+    "designation": "Office Subordinate",
+    "mobile": "9248759115",
+    "percentage": 61.61
+  },
+  {
+    "sl_no": 14,
+    "ps_no": 14,
+    "aero": 1,
+    "name": "S PAVAN KUMAR",
+    "designation": "Jr Asst",
+    "mobile": "9989699064",
+    "percentage": 59.27
+  },
+  {
+    "sl_no": 15,
+    "ps_no": 15,
+    "aero": 1,
+    "name": "S RAKESH",
+    "designation": "KAMTEE",
+    "mobile": "9293804851",
+    "percentage": 42.78
+  },
+  {
+    "sl_no": 16,
+    "ps_no": 16,
+    "aero": 1,
+    "name": "R RAMYA",
+    "designation": "Jr Asst",
+    "mobile": "9949633374",
+    "percentage": 23.5
+  },
+  {
+    "sl_no": 17,
+    "ps_no": 17,
+    "aero": 1,
+    "name": "JHANGIR PASHA",
+    "designation": "ATTENDER",
+    "mobile": "6304368857",
+    "percentage": 24.51
+  },
+  {
+    "sl_no": 18,
+    "ps_no": 18,
+    "aero": 1,
+    "name": "J. Srinivas Rao",
+    "designation": "Chowkidar",
+    "mobile": "9966722214",
+    "percentage": 53.59
+  },
+  {
+    "sl_no": 19,
+    "ps_no": 19,
+    "aero": 1,
+    "name": "Mohd Hussain",
+    "designation": "Jr Asst",
+    "mobile": "9000454123",
+    "percentage": 59.44
+  },
+  {
+    "sl_no": 20,
+    "ps_no": 20,
+    "aero": 1,
+    "name": "A Akash",
+    "designation": "Jr Asst",
+    "mobile": "9030103702",
+    "percentage": 41.16
+  },
+  {
+    "sl_no": 21,
+    "ps_no": 21,
+    "aero": 1,
+    "name": "V Jaya Prakash",
+    "designation": "Chowkidar",
+    "mobile": "9676207217",
+    "percentage": 51.71
+  },
+  {
+    "sl_no": 22,
+    "ps_no": 22,
+    "aero": 1,
+    "name": "S Papaiah",
+    "designation": "SFA",
+    "mobile": "9550557557",
+    "percentage": 21.73
+  },
+  {
+    "sl_no": 23,
+    "ps_no": 23,
+    "aero": 1,
+    "name": "T VENU",
+    "designation": "Jr Asst",
+    "mobile": "9603931492",
+    "percentage": 19.06
+  },
+  {
+    "sl_no": 24,
+    "ps_no": 24,
+    "aero": 1,
+    "name": "A Srinivas",
+    "designation": "Sanitary Jawan",
+    "mobile": "7780524072",
+    "percentage": 49.19
+  },
+  {
+    "sl_no": 25,
+    "ps_no": 25,
+    "aero": 1,
+    "name": "Vannada Shekhar",
+    "designation": "jr",
+    "mobile": "6262545416",
+    "percentage": 33.69
+  },
+  {
+    "sl_no": 26,
+    "ps_no": 26,
+    "aero": 1,
+    "name": "Prem Kumar",
+    "designation": "Bill Collector",
+    "mobile": "7989313560",
+    "percentage": 35.46
+  },
+  {
+    "sl_no": 27,
+    "ps_no": 27,
+    "aero": 1,
+    "name": "S Sangeetha",
+    "designation": "Record Assistant",
+    "mobile": "8639300351",
+    "percentage": 29.61
+  },
+  {
+    "sl_no": 28,
+    "ps_no": 28,
+    "aero": 1,
+    "name": "ABDUL BARI",
+    "designation": "Jr Asst",
+    "mobile": "9849796899",
+    "percentage": 37.91
+  },
+  {
+    "sl_no": 29,
+    "ps_no": 29,
+    "aero": 1,
+    "name": "J ALWAL",
+    "designation": "Record Assistant",
+    "mobile": "9848096933",
+    "percentage": 44.5
+  },
+  {
+    "sl_no": 30,
+    "ps_no": 30,
+    "aero": 1,
+    "name": "P.SUDHAKAR",
+    "designation": "SFA",
+    "mobile": "9966157848",
+    "percentage": 30.06
+  },
+  {
+    "sl_no": 1,
+    "ps_no": 31,
+    "aero": 3,
+    "name": "R Yadagiri",
+    "designation": "Sanitary Jawan",
+    "mobile": "8688304555",
+    "percentage": 33.72
+  },
+  {
+    "sl_no": 2,
+    "ps_no": 32,
+    "aero": 3,
+    "name": "Nagesh",
+    "designation": "Tax Inspector",
+    "mobile": "9989930515",
+    "percentage": 48.04
+  },
+  {
+    "sl_no": 3,
+    "ps_no": 33,
+    "aero": 3,
+    "name": "C Tulasiram",
+    "designation": "Chowkidar",
+    "mobile": "9701318968",
+    "percentage": 28.46
+  },
+  {
+    "sl_no": 4,
+    "ps_no": 34,
+    "aero": 3,
+    "name": "K.RAMU",
+    "designation": "SFA",
+    "mobile": "9989774975",
+    "percentage": 47.38
+  },
+  {
+    "sl_no": 5,
+    "ps_no": 35,
+    "aero": 3,
+    "name": "P Jangaiah",
+    "designation": "Sr.Asst",
+    "mobile": "9949166528",
+    "percentage": 43.99
+  },
+  {
+    "sl_no": 6,
+    "ps_no": 36,
+    "aero": 3,
+    "name": "SMT P PARVATI",
+    "designation": "Sr.Asst",
+    "mobile": "9398825760",
+    "percentage": 30.52
+  },
+  {
+    "sl_no": 7,
+    "ps_no": 37,
+    "aero": 3,
+    "name": "Smt M Vanaja",
+    "designation": "Sr.Asst",
+    "mobile": "9652512585",
+    "percentage": 21.88
+  },
+  {
+    "sl_no": 8,
+    "ps_no": 38,
+    "aero": 3,
+    "name": "G Ramesh",
+    "designation": "Chowkidar",
+    "mobile": "8897546705",
+    "percentage": 26.42
+  },
+  {
+    "sl_no": 9,
+    "ps_no": 39,
+    "aero": 3,
+    "name": "SRI B AVINASH",
+    "designation": "Sr.Asst",
+    "mobile": "9676709316",
+    "percentage": 37.05
+  },
+  {
+    "sl_no": 10,
+    "ps_no": 40,
+    "aero": 3,
+    "name": "M Muralidhar",
+    "designation": "Typist",
+    "mobile": "7569791854",
+    "percentage": 37.38
+  },
+  {
+    "sl_no": 11,
+    "ps_no": 41,
+    "aero": 3,
+    "name": "Qhadar Bin Hasan",
+    "designation": "Daffedar",
+    "mobile": "9849878086",
+    "percentage": 33.01
+  },
+  {
+    "sl_no": 12,
+    "ps_no": 42,
+    "aero": 3,
+    "name": "SRI P PRAVEEN KUMAR",
+    "designation": "Sr.Asst",
+    "mobile": "7396246152",
+    "percentage": 42.72
+  },
+  {
+    "sl_no": 13,
+    "ps_no": 43,
+    "aero": 3,
+    "name": "M Srikamal",
+    "designation": "Binder",
+    "mobile": "8125100726",
+    "percentage": 34.13
+  },
+  {
+    "sl_no": 14,
+    "ps_no": 44,
+    "aero": 3,
+    "name": "B. Heera Bai",
+    "designation": "Chainmen",
+    "mobile": "8500528103",
+    "percentage": 39.78
+  },
+  {
+    "sl_no": 15,
+    "ps_no": 45,
+    "aero": 3,
+    "name": "MOHAMMED SAIF AHMAD",
+    "designation": "AUDITOR",
+    "mobile": "8143331356",
+    "percentage": 38.37
+  },
+  {
+    "sl_no": 16,
+    "ps_no": 46,
+    "aero": 3,
+    "name": "K. Mounika",
+    "designation": "Bill Collector",
+    "mobile": "9966789697",
+    "percentage": 21.77
+  },
+  {
+    "sl_no": 17,
+    "ps_no": 47,
+    "aero": 3,
+    "name": "SRI SYED SOHAIL",
+    "designation": "Sr.Asst",
+    "mobile": "8099623815",
+    "percentage": 33.97
+  },
+  {
+    "sl_no": 18,
+    "ps_no": 48,
+    "aero": 3,
+    "name": "B Jyothi",
+    "designation": "Public Health Worker",
+    "mobile": "9985930485",
+    "percentage": 25.17
+  },
+  {
+    "sl_no": 19,
+    "ps_no": 49,
+    "aero": 3,
+    "name": "B Andalu",
+    "designation": "Public Health Worker",
+    "mobile": "9912878725",
+    "percentage": 29.74
+  },
+  {
+    "sl_no": 20,
+    "ps_no": 50,
+    "aero": 3,
+    "name": "P Sridhar",
+    "designation": "Public Health Worker",
+    "mobile": "9394713975",
+    "percentage": 24.81
+  },
+  {
+    "sl_no": 21,
+    "ps_no": 51,
+    "aero": 3,
+    "name": "A Narsing Rao",
+    "designation": "Public Health Worker",
+    "mobile": "9390898721",
+    "percentage": 21.26
+  },
+  {
+    "sl_no": 22,
+    "ps_no": 52,
+    "aero": 3,
+    "name": "C Surender",
+    "designation": "Public Health Worker",
+    "mobile": "7729051290",
+    "percentage": 22.13
+  },
+  {
+    "sl_no": 23,
+    "ps_no": 53,
+    "aero": 3,
+    "name": "B. Krishna Kumar",
+    "designation": "Sr.Printer DC",
+    "mobile": "9949123611",
+    "percentage": 25.31
+  },
+  {
+    "sl_no": 24,
+    "ps_no": 54,
+    "aero": 3,
+    "name": "SMT ASRA FATIMA",
+    "designation": "Sr.Asst",
+    "mobile": "6300261038",
+    "percentage": 39.27
+  },
+  {
+    "sl_no": 25,
+    "ps_no": 55,
+    "aero": 3,
+    "name": "SMT M MAMATHA,",
+    "designation": "Jr Asst",
+    "mobile": "9515389576",
+    "percentage": 32.56
+  },
+  {
+    "sl_no": 1,
+    "ps_no": 56,
+    "aero": 7,
+    "name": "B.VINOD KUMAR",
+    "designation": "SFA",
+    "mobile": "9700884489",
+    "percentage": 23.96
+  },
+  {
+    "sl_no": 2,
+    "ps_no": 57,
+    "aero": 7,
+    "name": "P Vishwanadh Goud",
+    "designation": "Tax Inspector",
+    "mobile": "9100025173",
+    "percentage": 22.92
+  },
+  {
+    "sl_no": 3,
+    "ps_no": 58,
+    "aero": 7,
+    "name": "N Usha",
+    "designation": "Public Health Worker",
+    "mobile": "7337271977",
+    "percentage": 24.79
+  },
+  {
+    "sl_no": 4,
+    "ps_no": 59,
+    "aero": 7,
+    "name": "K Yethishwari",
+    "designation": "Sanitary Jawan",
+    "mobile": "9700703420",
+    "percentage": 16.75
+  },
+  {
+    "sl_no": 5,
+    "ps_no": 60,
+    "aero": 7,
+    "name": "SMT J MAITREYEE",
+    "designation": "Sr.Asst",
+    "mobile": "8790983748",
+    "percentage": 23.72
+  },
+  {
+    "sl_no": 6,
+    "ps_no": 61,
+    "aero": 7,
+    "name": "Mir Azeem Ullah",
+    "designation": "Jr Asst",
+    "mobile": "9347006547",
+    "percentage": 42.03
+  },
+  {
+    "sl_no": 7,
+    "ps_no": 62,
+    "aero": 7,
+    "name": "ROHIT KUMAR K",
+    "designation": "Jr Asst",
+    "mobile": "9121592057",
+    "percentage": 27.78
+  },
+  {
+    "sl_no": 8,
+    "ps_no": 63,
+    "aero": 7,
+    "name": "Vasantha Kumari",
+    "designation": "Anganwadi Teacher",
+    "mobile": "8712002159",
+    "percentage": 13.42
+  },
+  {
+    "sl_no": 9,
+    "ps_no": 64,
+    "aero": 7,
+    "name": "T Venu gopal yadav",
+    "designation": "Work inspector",
+    "mobile": "9866048865",
+    "percentage": 32.01
+  },
+  {
+    "sl_no": 10,
+    "ps_no": 65,
+    "aero": 7,
+    "name": "N Sudha Bhavani",
+    "designation": "Anganwadi Teacher",
+    "mobile": "9553993267",
+    "percentage": 35.01
+  },
+  {
+    "sl_no": 11,
+    "ps_no": 66,
+    "aero": 7,
+    "name": "Da Kamala",
+    "designation": "Anganwadi Teacher",
+    "mobile": "9393375104",
+    "percentage": 46.51
+  },
+  {
+    "sl_no": 12,
+    "ps_no": 67,
+    "aero": 7,
+    "name": "DAULAGHAR KRISHNA KUMAR",
+    "designation": "Sr.Asst",
+    "mobile": "9912155525",
+    "percentage": 24.5
+  },
+  {
+    "sl_no": 13,
+    "ps_no": 68,
+    "aero": 7,
+    "name": "R Santhoshamma",
+    "designation": "RP",
+    "mobile": "9848261519",
+    "percentage": 23.62
+  },
+  {
+    "sl_no": 14,
+    "ps_no": 69,
+    "aero": 7,
+    "name": "B Sujatha",
+    "designation": "Anganwadi Teacher",
+    "mobile": "9553370151",
+    "percentage": 16.31
+  },
+  {
+    "sl_no": 26,
+    "ps_no": 70,
+    "aero": 3,
+    "name": "M RAMA",
+    "designation": "Sr.Asst",
+    "mobile": "9676941343",
+    "percentage": 27.49
+  },
+  {
+    "sl_no": 27,
+    "ps_no": 71,
+    "aero": 3,
+    "name": "Mukesh",
+    "designation": "Bill Collector",
+    "mobile": "7207426162",
+    "percentage": 28.2
+  },
+  {
+    "sl_no": 28,
+    "ps_no": 72,
+    "aero": 3,
+    "name": "SRI C YADAIAH",
+    "designation": "Sr.Asst",
+    "mobile": "9885880604",
+    "percentage": 31.39
+  },
+  {
+    "sl_no": 29,
+    "ps_no": 73,
+    "aero": 3,
+    "name": "Ch Meghamala",
+    "designation": "Sr.Asst",
+    "mobile": "9100160369",
+    "percentage": 21.2
+  },
+  {
+    "sl_no": 30,
+    "ps_no": 74,
+    "aero": 3,
+    "name": "R SAI HARSHA VARDHAN",
+    "designation": "Sr.Asst",
+    "mobile": "9493311888",
+    "percentage": 27.52
+  },
+  {
+    "sl_no": 31,
+    "ps_no": 75,
+    "aero": 3,
+    "name": "SUPARNA (FUND)",
+    "designation": "Sr.Asst",
+    "mobile": "9573561107",
+    "percentage": 24.63
+  },
+  {
+    "sl_no": 32,
+    "ps_no": 76,
+    "aero": 3,
+    "name": "M Swaroopa",
+    "designation": "Anganwadi Teacher",
+    "mobile": "9989717676",
+    "percentage": 47.39
+  },
+  {
+    "sl_no": 33,
+    "ps_no": 77,
+    "aero": 3,
+    "name": "M SURENDER REDDY",
+    "designation": "Sr.Asst",
+    "mobile": "9010220176",
+    "percentage": 43
+  },
+  {
+    "sl_no": 34,
+    "ps_no": 78,
+    "aero": 3,
+    "name": "S JERNALI SINGH BEDI",
+    "designation": "Sr.Asst",
+    "mobile": "9701925467",
+    "percentage": 38.93
+  },
+  {
+    "sl_no": 1,
+    "ps_no": 79,
+    "aero": 8,
+    "name": "Shaik Allauddin",
+    "designation": "Jr Asst",
+    "mobile": "9666560408",
+    "percentage": 59.18
+  },
+  {
+    "sl_no": 2,
+    "ps_no": 80,
+    "aero": 8,
+    "name": "S YADAGIRI",
+    "designation": "Sr.Asst",
+    "mobile": "9492307157",
+    "percentage": 39.49
+  },
+  {
+    "sl_no": 3,
+    "ps_no": 81,
+    "aero": 8,
+    "name": "S Ashok",
+    "designation": "Community Organizer",
+    "mobile": "7842528350",
+    "percentage": 44.64
+  },
+  {
+    "sl_no": 4,
+    "ps_no": 82,
+    "aero": 8,
+    "name": "E JEEVAN JYOTHI",
+    "designation": "Sr.Asst",
+    "mobile": "7799611836",
+    "percentage": 60.24
+  },
+  {
+    "sl_no": 5,
+    "ps_no": 83,
+    "aero": 8,
+    "name": "R CHANDRA MOHAN",
+    "designation": "Jr Asst",
+    "mobile": "8790442369",
+    "percentage": 60.49
+  },
+  {
+    "sl_no": 6,
+    "ps_no": 84,
+    "aero": 8,
+    "name": "M PRAHALAD SINGH RATHOD",
+    "designation": "Sr.Asst",
+    "mobile": "9618418612",
+    "percentage": 37.43
+  },
+  {
+    "sl_no": 7,
+    "ps_no": 85,
+    "aero": 8,
+    "name": "M SRINIVAS",
+    "designation": "Sr.Asst",
+    "mobile": "9849624688",
+    "percentage": 41.5
+  },
+  {
+    "sl_no": 8,
+    "ps_no": 86,
+    "aero": 8,
+    "name": "V.MAHESH",
+    "designation": "SFA",
+    "mobile": "6304443973",
+    "percentage": 34.27
+  },
+  {
+    "sl_no": 9,
+    "ps_no": 87,
+    "aero": 8,
+    "name": "MOHD RIHANA BEGUM",
+    "designation": "Sr.Asst",
+    "mobile": "9441219602",
+    "percentage": 46.44
+  },
+  {
+    "sl_no": 10,
+    "ps_no": 88,
+    "aero": 8,
+    "name": "FARAZ AHMED ABBASI",
+    "designation": "Jr Asst",
+    "mobile": "7893618818",
+    "percentage": 51.46
+  },
+  {
+    "sl_no": 11,
+    "ps_no": 89,
+    "aero": 8,
+    "name": "CH SATISH DHAVAN",
+    "designation": "Sr.Asst",
+    "mobile": "8885296822",
+    "percentage": 50.88
+  },
+  {
+    "sl_no": 12,
+    "ps_no": 90,
+    "aero": 8,
+    "name": "Mohammed Mohiuddin Hussain",
+    "designation": "Jr Asst",
+    "mobile": "7794032863",
+    "percentage": 39.8
+  },
+  {
+    "sl_no": 13,
+    "ps_no": 91,
+    "aero": 8,
+    "name": "K.SAI NAG",
+    "designation": "SFA",
+    "mobile": "9059090690",
+    "percentage": 32.83
+  },
+  {
+    "sl_no": 14,
+    "ps_no": 92,
+    "aero": 8,
+    "name": "I/c Surya Prasad",
+    "designation": "SFA",
+    "mobile": "9000568587",
+    "percentage": 23.86
+  },
+  {
+    "sl_no": 15,
+    "ps_no": 93,
+    "aero": 8,
+    "name": "S.NARSING",
+    "designation": "SFA",
+    "mobile": "9063063031",
+    "percentage": 37.77
+  },
+  {
+    "sl_no": 16,
+    "ps_no": 94,
+    "aero": 8,
+    "name": "ZUBAIR",
+    "designation": "SFA",
+    "mobile": "9885787321",
+    "percentage": 31.82
+  },
+  {
+    "sl_no": 17,
+    "ps_no": 95,
+    "aero": 8,
+    "name": "BESTHA B NAGARAJU",
+    "designation": "Typist",
+    "mobile": "7893527274",
+    "percentage": 57.67
+  },
+  {
+    "sl_no": 18,
+    "ps_no": 96,
+    "aero": 8,
+    "name": "B SRINIVASULU",
+    "designation": "Jr Asst",
+    "mobile": "9885046190",
+    "percentage": 24.7
+  },
+  {
+    "sl_no": 19,
+    "ps_no": 97,
+    "aero": 8,
+    "name": "V Dhruva Kumar Reddy",
+    "designation": "Jr Asst",
+    "mobile": "8309963282",
+    "percentage": 47.13
+  },
+  {
+    "sl_no": 20,
+    "ps_no": 98,
+    "aero": 8,
+    "name": "T UMA MAHESHWARI",
+    "designation": "Sr.Asst",
+    "mobile": "9492034998",
+    "percentage": 51.08
+  },
+  {
+    "sl_no": 21,
+    "ps_no": 99,
+    "aero": 8,
+    "name": "E Rajgopal",
+    "designation": "Office Subordinate",
+    "mobile": "9985832066",
+    "percentage": 33.73
+  },
+  {
+    "sl_no": 1,
+    "ps_no": 100,
+    "aero": 2,
+    "name": "SYED GAHAFOOR",
+    "designation": "SFA",
+    "mobile": "9032107044",
+    "percentage": 32.51
+  },
+  {
+    "sl_no": 2,
+    "ps_no": 101,
+    "aero": 2,
+    "name": "B Praveen",
+    "designation": "Jr Asst",
+    "mobile": "9493156566",
+    "percentage": 29.93
+  },
+  {
+    "sl_no": 3,
+    "ps_no": 102,
+    "aero": 2,
+    "name": "M Manjula",
+    "designation": "Anganwadi Teacher",
+    "mobile": "8712745432",
+    "percentage": 19.4
+  },
+  {
+    "sl_no": 4,
+    "ps_no": 103,
+    "aero": 2,
+    "name": "V Preethi",
+    "designation": "Anganwadi Teacher",
+    "mobile": "8712001491",
+    "percentage": 41.8
+  },
+  {
+    "sl_no": 5,
+    "ps_no": 104,
+    "aero": 2,
+    "name": "B Vasantha",
+    "designation": "Sanitary Jawan",
+    "mobile": "9908794221",
+    "percentage": 4.04
+  },
+  {
+    "sl_no": 6,
+    "ps_no": 105,
+    "aero": 2,
+    "name": "S Mallesh",
+    "designation": "Public Health Worker",
+    "mobile": "9059010439",
+    "percentage": 34.05
+  },
+  {
+    "sl_no": 7,
+    "ps_no": 106,
+    "aero": 2,
+    "name": "B. DHANRAJ",
+    "designation": "SFA",
+    "mobile": "9291239562",
+    "percentage": 37.22
+  },
+  {
+    "sl_no": 8,
+    "ps_no": 107,
+    "aero": 2,
+    "name": "G Pavan Kumar",
+    "designation": "Public Health Worker",
+    "mobile": "7670817669",
+    "percentage": 38.63
+  },
+  {
+    "sl_no": 9,
+    "ps_no": 108,
+    "aero": 2,
+    "name": "Sulochana",
+    "designation": "Anganwadi Teacher",
+    "mobile": "9441866600",
+    "percentage": 37.32
+  },
+  {
+    "sl_no": 10,
+    "ps_no": 109,
+    "aero": 2,
+    "name": "M JAGADEESH",
+    "designation": "Record Assistant",
+    "mobile": "9959662566",
+    "percentage": 25.69
+  },
+  {
+    "sl_no": 11,
+    "ps_no": 110,
+    "aero": 2,
+    "name": "G Sridevi",
+    "designation": "Sr.Asst",
+    "mobile": "9581111156",
+    "percentage": 20.23
+  },
+  {
+    "sl_no": 12,
+    "ps_no": 111,
+    "aero": 2,
+    "name": "B Krishana",
+    "designation": "Sr.Asst",
+    "mobile": "7032260854",
+    "percentage": 9.27
+  },
+  {
+    "sl_no": 13,
+    "ps_no": 112,
+    "aero": 2,
+    "name": "Sabira",
+    "designation": "Sr.Asst",
+    "mobile": "7680947814",
+    "percentage": 25.8
+  },
+  {
+    "sl_no": 14,
+    "ps_no": 113,
+    "aero": 2,
+    "name": "Krishana",
+    "designation": "Kamatee",
+    "mobile": "9010415196",
+    "percentage": 19.31
+  },
+  {
+    "sl_no": 15,
+    "ps_no": 114,
+    "aero": 2,
+    "name": "M Narsing Rao",
+    "designation": "Sanitary Jawan",
+    "mobile": "9912034203",
+    "percentage": 27.04
+  },
+  {
+    "sl_no": 16,
+    "ps_no": 115,
+    "aero": 2,
+    "name": "D.Rakesh",
+    "designation": "Khallasi",
+    "mobile": "9494828814",
+    "percentage": 23.54
+  },
+  {
+    "sl_no": 17,
+    "ps_no": 116,
+    "aero": 2,
+    "name": "G APARNA",
+    "designation": "Jr Asst",
+    "mobile": "7287966517",
+    "percentage": 25.4
+  },
+  {
+    "sl_no": 18,
+    "ps_no": 117,
+    "aero": 2,
+    "name": "Avinash Kumar",
+    "designation": "Sr.Asst",
+    "mobile": "7331121406",
+    "percentage": 24.07
+  },
+  {
+    "sl_no": 19,
+    "ps_no": 118,
+    "aero": 2,
+    "name": "P Ramchander",
+    "designation": "Sanitary Jawan",
+    "mobile": "7995518947",
+    "percentage": 33.31
+  },
+  {
+    "sl_no": 20,
+    "ps_no": 119,
+    "aero": 2,
+    "name": "Azhar Ali Baig",
+    "designation": "Khallasi",
+    "mobile": "9032593538",
+    "percentage": 29.36
+  },
+  {
+    "sl_no": 21,
+    "ps_no": 120,
+    "aero": 2,
+    "name": "K Narsing Rao",
+    "designation": "Chowkidar",
+    "mobile": "9959414300",
+    "percentage": 17.9
+  },
+  {
+    "sl_no": 22,
+    "ps_no": 121,
+    "aero": 2,
+    "name": "B S Narender",
+    "designation": "Bill Collector",
+    "mobile": "9642020130",
+    "percentage": 31.25
+  },
+  {
+    "sl_no": 23,
+    "ps_no": 122,
+    "aero": 2,
+    "name": "A. Sai Kiran",
+    "designation": "Jr Asst",
+    "mobile": "9700609283",
+    "percentage": 40.79
+  },
+  {
+    "sl_no": 24,
+    "ps_no": 123,
+    "aero": 2,
+    "name": "J Devi",
+    "designation": "Office Subordinate",
+    "mobile": "9949189761",
+    "percentage": 33.84
+  },
+  {
+    "sl_no": 25,
+    "ps_no": 124,
+    "aero": 2,
+    "name": "Nausar Narsamma",
+    "designation": "Jr Asst",
+    "mobile": "9959987400",
+    "percentage": 32.14
+  },
+  {
+    "sl_no": 26,
+    "ps_no": 125,
+    "aero": 2,
+    "name": "Md.Ghouse",
+    "designation": "Binder (SGP)",
+    "mobile": "9959527777",
+    "percentage": 29.14
+  },
+  {
+    "sl_no": 27,
+    "ps_no": 126,
+    "aero": 2,
+    "name": "FAREEDA AKHTER",
+    "designation": "Jr Asst",
+    "mobile": "9949353629",
+    "percentage": 35.39
+  },
+  {
+    "sl_no": 28,
+    "ps_no": 127,
+    "aero": 2,
+    "name": "Mahender",
+    "designation": "Sanitary Jawan",
+    "mobile": "9100831418",
+    "percentage": 28.66
+  },
+  {
+    "sl_no": 29,
+    "ps_no": 128,
+    "aero": 2,
+    "name": "V RAJAIAH",
+    "designation": "Jr Asst",
+    "mobile": "8096545847",
+    "percentage": 27.83
+  },
+  {
+    "sl_no": 30,
+    "ps_no": 129,
+    "aero": 2,
+    "name": "K Raju",
+    "designation": "Office Subordinate",
+    "mobile": "7330710343",
+    "percentage": 31.34
+  },
+  {
+    "sl_no": 31,
+    "ps_no": 130,
+    "aero": 2,
+    "name": "Fareesa Jabeen",
+    "designation": "Medical Lab Technologist",
+    "mobile": "9908662487",
+    "percentage": 32.86
+  },
+  {
+    "sl_no": 32,
+    "ps_no": 131,
+    "aero": 2,
+    "name": "Akshara",
+    "designation": "Assistant Engineer",
+    "mobile": "7331189751",
+    "percentage": 31.71
+  },
+  {
+    "sl_no": 33,
+    "ps_no": 132,
+    "aero": 2,
+    "name": "Mrs. Juveria Mahmood.",
+    "designation": "Medical Lab Technologist",
+    "mobile": "8019576905",
+    "percentage": 37.85
+  },
+  {
+    "sl_no": 34,
+    "ps_no": 133,
+    "aero": 2,
+    "name": "K.NAVEEN KUMAR",
+    "designation": "TASK WRITER",
+    "mobile": "9293055957",
+    "percentage": 51.66
+  },
+  {
+    "sl_no": 35,
+    "ps_no": 134,
+    "aero": 2,
+    "name": "Mohd Mohsin Ali",
+    "designation": "Khallasi",
+    "mobile": "9705441549",
+    "percentage": 29.54
+  },
+  {
+    "sl_no": 36,
+    "ps_no": 135,
+    "aero": 2,
+    "name": "Mohd Osman Khan",
+    "designation": "Jr Asst",
+    "mobile": "9959069068",
+    "percentage": 54.87
+  },
+  {
+    "sl_no": 37,
+    "ps_no": 136,
+    "aero": 2,
+    "name": "Rohit",
+    "designation": "Computer",
+    "mobile": "7675805373",
+    "percentage": 20.18
+  },
+  {
+    "sl_no": 38,
+    "ps_no": 137,
+    "aero": 2,
+    "name": "K.TIRUMALESH",
+    "designation": "TASK WRITER",
+    "mobile": "9346822587",
+    "percentage": 26.58
+  },
+  {
+    "sl_no": 39,
+    "ps_no": 138,
+    "aero": 2,
+    "name": "MD MAHMOODUDDIN FAROOQUI",
+    "designation": "Jr Asst",
+    "mobile": "8125231661",
+    "percentage": 23.37
+  },
+  {
+    "sl_no": 1,
+    "ps_no": 139,
+    "aero": 4,
+    "name": "MOHD ZAYEEMUDDIN",
+    "designation": "Jr Asst",
+    "mobile": "8179402248",
+    "percentage": 31.75
+  },
+  {
+    "sl_no": 2,
+    "ps_no": 140,
+    "aero": 4,
+    "name": "Syed zishan Husain",
+    "designation": "Jr Asst",
+    "mobile": "8886790601",
+    "percentage": 36.35
+  },
+  {
+    "sl_no": 3,
+    "ps_no": 141,
+    "aero": 4,
+    "name": "Syed Akbar",
+    "designation": "SFA",
+    "mobile": "7780171722",
+    "percentage": 34.77
+  },
+  {
+    "sl_no": 4,
+    "ps_no": 142,
+    "aero": 4,
+    "name": "ABDUL",
+    "designation": "EFA",
+    "mobile": "9676212896",
+    "percentage": 48.83
+  },
+  {
+    "sl_no": 5,
+    "ps_no": 143,
+    "aero": 4,
+    "name": "MOHAMMED MOHIUDDIN",
+    "designation": "EFA",
+    "mobile": "9959068507",
+    "percentage": 49.48
+  },
+  {
+    "sl_no": 6,
+    "ps_no": 144,
+    "aero": 4,
+    "name": "SRI MOHD SHAREEF,",
+    "designation": "Jr Asst",
+    "mobile": "9440067687",
+    "percentage": 47.62
+  },
+  {
+    "sl_no": 7,
+    "ps_no": 145,
+    "aero": 4,
+    "name": "DHEERAVATH RAMESH",
+    "designation": "LIBRARIAN",
+    "mobile": "8500401233",
+    "percentage": 30.82
+  },
+  {
+    "sl_no": 8,
+    "ps_no": 146,
+    "aero": 4,
+    "name": "TALARI SUMAN\"",
+    "designation": "",
+    "mobile": "7702977212",
+    "percentage": 21.9
+  },
+  {
+    "sl_no": 9,
+    "ps_no": 147,
+    "aero": 4,
+    "name": "Bilal Hussain",
+    "designation": "EFA",
+    "mobile": "8341377533",
+    "percentage": 30.55
+  },
+  {
+    "sl_no": 10,
+    "ps_no": 148,
+    "aero": 4,
+    "name": "B RAMANJANEYAMMA",
+    "designation": "Jr Asst",
+    "mobile": "8328428933",
+    "percentage": 34.15
+  },
+  {
+    "sl_no": 11,
+    "ps_no": 149,
+    "aero": 4,
+    "name": "SATHYAVATHY",
+    "designation": "LIBRARIAN",
+    "mobile": "8125844368",
+    "percentage": 22.29
+  },
+  {
+    "sl_no": 12,
+    "ps_no": 150,
+    "aero": 4,
+    "name": "Shaik Hussain",
+    "designation": "Tax Inspector",
+    "mobile": "7416747041",
+    "percentage": 22.6
+  },
+  {
+    "sl_no": 13,
+    "ps_no": 151,
+    "aero": 4,
+    "name": "M Umavathi",
+    "designation": "EFA",
+    "mobile": "6302066524",
+    "percentage": 22.21
+  },
+  {
+    "sl_no": 14,
+    "ps_no": 152,
+    "aero": 4,
+    "name": "Raju",
+    "designation": "Sanitary Jawan",
+    "mobile": "8341326747",
+    "percentage": 50.38
+  },
+  {
+    "sl_no": 15,
+    "ps_no": 153,
+    "aero": 4,
+    "name": "A Mohan Babu",
+    "designation": "Bill Collector",
+    "mobile": "9618166572",
+    "percentage": 35.72
+  },
+  {
+    "sl_no": 16,
+    "ps_no": 154,
+    "aero": 4,
+    "name": "M.PRABHAKAR",
+    "designation": "SFA",
+    "mobile": "8309314395",
+    "percentage": 29.99
+  },
+  {
+    "sl_no": 17,
+    "ps_no": 155,
+    "aero": 4,
+    "name": "I/c Sudharshan Goud",
+    "designation": "SFA",
+    "mobile": "9705995012",
+    "percentage": 19.29
+  },
+  {
+    "sl_no": 18,
+    "ps_no": 156,
+    "aero": 4,
+    "name": "THURUPATI ANASUYA",
+    "designation": "Sr.Asst",
+    "mobile": "6303789641",
+    "percentage": 41.75
+  },
+  {
+    "sl_no": 19,
+    "ps_no": 157,
+    "aero": 4,
+    "name": "DUBBAKA PENTA GANGADHAR",
+    "designation": "Sr.Asst",
+    "mobile": "9948010245",
+    "percentage": 26.98
+  },
+  {
+    "sl_no": 20,
+    "ps_no": 158,
+    "aero": 4,
+    "name": "B Dinakar Raj",
+    "designation": "Jr Asst",
+    "mobile": "9700683866",
+    "percentage": 32.9
+  },
+  {
+    "sl_no": 21,
+    "ps_no": 159,
+    "aero": 4,
+    "name": "K Sujal",
+    "designation": "Jr Asst",
+    "mobile": "7801084027",
+    "percentage": 39.23
+  },
+  {
+    "sl_no": 22,
+    "ps_no": 160,
+    "aero": 4,
+    "name": "E Naresh",
+    "designation": "EFA",
+    "mobile": "9398537274",
+    "percentage": 33.37
+  },
+  {
+    "sl_no": 23,
+    "ps_no": 161,
+    "aero": 4,
+    "name": "T. VENKATESH",
+    "designation": "SFA",
+    "mobile": "9346167978",
+    "percentage": 27.01
+  },
+  {
+    "sl_no": 24,
+    "ps_no": 162,
+    "aero": 4,
+    "name": "N DAMODHAR",
+    "designation": "Jr Asst",
+    "mobile": "9177978121",
+    "percentage": 24.62
+  },
+  {
+    "sl_no": 15,
+    "ps_no": 163,
+    "aero": 7,
+    "name": "Vr Rama Kumari",
+    "designation": "Anganwadi Teacher",
+    "mobile": "8247391312",
+    "percentage": 19.28
+  },
+  {
+    "sl_no": 16,
+    "ps_no": 164,
+    "aero": 7,
+    "name": "SRI B NAGARAJU",
+    "designation": "Office Supdt",
+    "mobile": "9704028944",
+    "percentage": 30.75
+  },
+  {
+    "sl_no": 17,
+    "ps_no": 165,
+    "aero": 7,
+    "name": "NUSRATH WAHEEDA",
+    "designation": "Jr Asst",
+    "mobile": "9989648244",
+    "percentage": 44.16
+  },
+  {
+    "sl_no": 18,
+    "ps_no": 166,
+    "aero": 7,
+    "name": "Savithri",
+    "designation": "Anganwadi Teacher",
+    "mobile": "8712001498",
+    "percentage": 38.71
+  },
+  {
+    "sl_no": 1,
+    "ps_no": 167,
+    "aero": 6,
+    "name": "E Ramesh Kumar",
+    "designation": "Lab Attendant",
+    "mobile": "9963581463",
+    "percentage": 19.83
+  },
+  {
+    "sl_no": 2,
+    "ps_no": 168,
+    "aero": 6,
+    "name": "G Mukhyanand",
+    "designation": "OHS",
+    "mobile": "9700059489",
+    "percentage": 24.35
+  },
+  {
+    "sl_no": 3,
+    "ps_no": 169,
+    "aero": 6,
+    "name": "G Suresh",
+    "designation": "Telephone attendant",
+    "mobile": "8790294772",
+    "percentage": 24.28
+  },
+  {
+    "sl_no": 4,
+    "ps_no": 170,
+    "aero": 6,
+    "name": "Heeralal",
+    "designation": "Asst Dhobi",
+    "mobile": "7799383006",
+    "percentage": 34.57
+  },
+  {
+    "sl_no": 5,
+    "ps_no": 171,
+    "aero": 6,
+    "name": "DIVE PRASANTH",
+    "designation": "Jr Asst",
+    "mobile": "8019202909",
+    "percentage": 35.49
+  },
+  {
+    "sl_no": 6,
+    "ps_no": 172,
+    "aero": 6,
+    "name": "Chandrashekar",
+    "designation": "SS",
+    "mobile": "9985382020",
+    "percentage": 23.51
+  },
+  {
+    "sl_no": 7,
+    "ps_no": 173,
+    "aero": 6,
+    "name": "BADA POOLA",
+    "designation": "Jr Asst",
+    "mobile": "9618620072",
+    "percentage": 20.86
+  },
+  {
+    "sl_no": 8,
+    "ps_no": 174,
+    "aero": 6,
+    "name": "E J Joel,",
+    "designation": "Junior Assistant",
+    "mobile": "9177232011",
+    "percentage": 17.99
+  },
+  {
+    "sl_no": 9,
+    "ps_no": 175,
+    "aero": 6,
+    "name": "SRI M SRAVAN KUMAR",
+    "designation": "Jr Asst",
+    "mobile": "9000606566",
+    "percentage": 10.21
+  },
+  {
+    "sl_no": 22,
+    "ps_no": 176,
+    "aero": 8,
+    "name": "SRI MOHD SADIQ HUSSAIN",
+    "designation": "Jr Asst",
+    "mobile": "9391311938",
+    "percentage": 17.11
+  },
+  {
+    "sl_no": 23,
+    "ps_no": 177,
+    "aero": 8,
+    "name": "P.Narsing Rao",
+    "designation": "Binder (SPPS 1A)",
+    "mobile": "9398973027",
+    "percentage": 23.35
+  },
+  {
+    "sl_no": 24,
+    "ps_no": 178,
+    "aero": 8,
+    "name": "BASSI.SRIDHAR",
+    "designation": "SFA",
+    "mobile": "7207337779",
+    "percentage": 36.07
+  },
+  {
+    "sl_no": 25,
+    "ps_no": 179,
+    "aero": 8,
+    "name": "Laxmi Prasanna",
+    "designation": "Jr Asst",
+    "mobile": "9550642917",
+    "percentage": 23.82
+  },
+  {
+    "sl_no": 26,
+    "ps_no": 180,
+    "aero": 8,
+    "name": "Zakira Sultana",
+    "designation": "Anganwadi Teacher",
+    "mobile": "8712001444",
+    "percentage": 20.86
+  },
+  {
+    "sl_no": 27,
+    "ps_no": 181,
+    "aero": 8,
+    "name": "Syed Irfan uddin",
+    "designation": "Billing",
+    "mobile": "9676194573",
+    "percentage": 20.56
+  },
+  {
+    "sl_no": 28,
+    "ps_no": 182,
+    "aero": 8,
+    "name": "M Madhusudhan Rao",
+    "designation": "Jr Asst",
+    "mobile": "9133778068",
+    "percentage": 26.76
+  },
+  {
+    "sl_no": 29,
+    "ps_no": 183,
+    "aero": 8,
+    "name": "A Sujatha Yadav",
+    "designation": "Anganwadi Teacher",
+    "mobile": "8309786972",
+    "percentage": 25.21
+  },
+  {
+    "sl_no": 30,
+    "ps_no": 184,
+    "aero": 8,
+    "name": "B Sujatha",
+    "designation": "Anganwadi Teacher",
+    "mobile": "8712001441",
+    "percentage": 28.16
+  },
+  {
+    "sl_no": 31,
+    "ps_no": 185,
+    "aero": 8,
+    "name": "M.PANDU",
+    "designation": "SFA",
+    "mobile": "9848459669",
+    "percentage": 22.44
+  },
+  {
+    "sl_no": 32,
+    "ps_no": 186,
+    "aero": 8,
+    "name": "K.SARAIAH",
+    "designation": "SFA",
+    "mobile": "9989825059",
+    "percentage": 27.3
+  },
+  {
+    "sl_no": 33,
+    "ps_no": 187,
+    "aero": 8,
+    "name": "K Vanitha",
+    "designation": "Anganwadi Teacher",
+    "mobile": "8712001445",
+    "percentage": 25.6
+  },
+  {
+    "sl_no": 34,
+    "ps_no": 188,
+    "aero": 8,
+    "name": "CHANDRAKALA",
+    "designation": "Asha Worker",
+    "mobile": "6301473560",
+    "percentage": 28.41
+  },
+  {
+    "sl_no": 35,
+    "ps_no": 189,
+    "aero": 8,
+    "name": "KAVITHA",
+    "designation": "Asha Worker",
+    "mobile": "9059207405",
+    "percentage": 20.95
+  },
+  {
+    "sl_no": 36,
+    "ps_no": 190,
+    "aero": 8,
+    "name": "N Krishnaiah",
+    "designation": "Community Organizer",
+    "mobile": "8686413049",
+    "percentage": 20.44
+  },
+  {
+    "sl_no": 37,
+    "ps_no": 191,
+    "aero": 8,
+    "name": "S Uma Rani",
+    "designation": "Anganwadi Teacher",
+    "mobile": "9989255725",
+    "percentage": 25.62
+  },
+  {
+    "sl_no": 38,
+    "ps_no": 192,
+    "aero": 8,
+    "name": "T Rajender Singh",
+    "designation": "Eng Work Inspector.",
+    "mobile": "9989713719",
+    "percentage": 27.58
+  },
+  {
+    "sl_no": 19,
+    "ps_no": 193,
+    "aero": 7,
+    "name": "Ramesh",
+    "designation": "Public Health Worker",
+    "mobile": "7981915683",
+    "percentage": 23.92
+  },
+  {
+    "sl_no": 20,
+    "ps_no": 194,
+    "aero": 7,
+    "name": "J Lavanya",
+    "designation": "Public Health Worker",
+    "mobile": "9391820260",
+    "percentage": 28.92
+  },
+  {
+    "sl_no": 21,
+    "ps_no": 195,
+    "aero": 7,
+    "name": "C Lalitha",
+    "designation": "Public Health Worker",
+    "mobile": "9182577366",
+    "percentage": 25.09
+  },
+  {
+    "sl_no": 22,
+    "ps_no": 196,
+    "aero": 7,
+    "name": "H Krishna",
+    "designation": "Public Health Worker",
+    "mobile": "7680938600",
+    "percentage": 28.34
+  },
+  {
+    "sl_no": 23,
+    "ps_no": 197,
+    "aero": 7,
+    "name": "V Chinna Babu",
+    "designation": "Public Health Worker",
+    "mobile": "9010717097",
+    "percentage": 17.56
+  },
+  {
+    "sl_no": 24,
+    "ps_no": 198,
+    "aero": 7,
+    "name": "D SURENDER",
+    "designation": "Jr Asst",
+    "mobile": "9849138790",
+    "percentage": 18.15
+  },
+  {
+    "sl_no": 25,
+    "ps_no": 199,
+    "aero": 7,
+    "name": "SYED IFTEQAR AHMED",
+    "designation": "Jr Asst",
+    "mobile": "9182980365",
+    "percentage": 46.83
+  },
+  {
+    "sl_no": 26,
+    "ps_no": 200,
+    "aero": 7,
+    "name": "SALEEM HUSSAIN",
+    "designation": "SFA",
+    "mobile": "9700742409",
+    "percentage": 25.35
+  },
+  {
+    "sl_no": 27,
+    "ps_no": 201,
+    "aero": 7,
+    "name": "G Heera",
+    "designation": "RP",
+    "mobile": "9347745308",
+    "percentage": 40.49
+  },
+  {
+    "sl_no": 28,
+    "ps_no": 202,
+    "aero": 7,
+    "name": "L Padma",
+    "designation": "RP",
+    "mobile": "8801198130",
+    "percentage": 31.68
+  },
+  {
+    "sl_no": 29,
+    "ps_no": 203,
+    "aero": 7,
+    "name": "G Karuna",
+    "designation": "RP",
+    "mobile": "9393882812",
+    "percentage": 31.1
+  },
+  {
+    "sl_no": 30,
+    "ps_no": 204,
+    "aero": 7,
+    "name": "Kasala Keerthi",
+    "designation": "Anganwadi Teacher",
+    "mobile": "7675878957",
+    "percentage": 29.86
+  },
+  {
+    "sl_no": 31,
+    "ps_no": 205,
+    "aero": 7,
+    "name": "K Padma",
+    "designation": "Anganwadi Teacher",
+    "mobile": "8712002168",
+    "percentage": 22.28
+  },
+  {
+    "sl_no": 32,
+    "ps_no": 206,
+    "aero": 7,
+    "name": "Madhavi",
+    "designation": "RP",
+    "mobile": "7993556819",
+    "percentage": 34.74
+  },
+  {
+    "sl_no": 33,
+    "ps_no": 207,
+    "aero": 7,
+    "name": "MD SHAHABUDDIN",
+    "designation": "Sr.Asst",
+    "mobile": "9948748579",
+    "percentage": 33.41
+  },
+  {
+    "sl_no": 34,
+    "ps_no": 208,
+    "aero": 7,
+    "name": "L Kavitha",
+    "designation": "RP",
+    "mobile": "9346806228",
+    "percentage": 32.54
+  },
+  {
+    "sl_no": 35,
+    "ps_no": 209,
+    "aero": 7,
+    "name": "Swarna latha",
+    "designation": "RP",
+    "mobile": "8008472501",
+    "percentage": 30.13
+  },
+  {
+    "sl_no": 36,
+    "ps_no": 210,
+    "aero": 7,
+    "name": "Rajeshwari",
+    "designation": "RP",
+    "mobile": "7842639288",
+    "percentage": 32.5
+  },
+  {
+    "sl_no": 1,
+    "ps_no": 211,
+    "aero": 5,
+    "name": "Spoorthy",
+    "designation": "Assistant Executive Engineer",
+    "mobile": "8008415560",
+    "percentage": 22.28
+  },
+  {
+    "sl_no": 2,
+    "ps_no": 212,
+    "aero": 5,
+    "name": "M Vijaya Laxmi",
+    "designation": "Anganwadi Teacher",
+    "mobile": "8712002166",
+    "percentage": 30.78
+  },
+  {
+    "sl_no": 3,
+    "ps_no": 213,
+    "aero": 5,
+    "name": "Md. Ansar Ali",
+    "designation": "Record Assistant",
+    "mobile": "6303114193",
+    "percentage": 25.33
+  },
+  {
+    "sl_no": 4,
+    "ps_no": 214,
+    "aero": 5,
+    "name": "Sana Salvana",
+    "designation": "Sr.Asst",
+    "mobile": "9052428312",
+    "percentage": 52.61
+  },
+  {
+    "sl_no": 5,
+    "ps_no": 215,
+    "aero": 5,
+    "name": "S GOPALA KRISHNA",
+    "designation": "Sr.Asst",
+    "mobile": "9398947705",
+    "percentage": 33.08
+  },
+  {
+    "sl_no": 6,
+    "ps_no": 216,
+    "aero": 5,
+    "name": "SRI A RAJENDRA",
+    "designation": "Sr.Asst",
+    "mobile": "8247303539",
+    "percentage": 27.48
+  },
+  {
+    "sl_no": 7,
+    "ps_no": 217,
+    "aero": 5,
+    "name": "T VIMALA BAI",
+    "designation": "Sr.Asst",
+    "mobile": "8686692259",
+    "percentage": 39.56
+  },
+  {
+    "sl_no": 8,
+    "ps_no": 218,
+    "aero": 5,
+    "name": "B RAMESH",
+    "designation": "Jr Asst",
+    "mobile": "9959540038",
+    "percentage": 33.87
+  },
+  {
+    "sl_no": 9,
+    "ps_no": 219,
+    "aero": 5,
+    "name": "SRI MOHD ARSHADULLAKHAN",
+    "designation": "Sr.Asst",
+    "mobile": "9704625539",
+    "percentage": 42.95
+  },
+  {
+    "sl_no": 10,
+    "ps_no": 220,
+    "aero": 5,
+    "name": "JANGETI ANIL YADAV",
+    "designation": "SFA",
+    "mobile": "9291368671",
+    "percentage": 29.04
+  },
+  {
+    "sl_no": 11,
+    "ps_no": 221,
+    "aero": 5,
+    "name": "M Ravi Prasad",
+    "designation": "Tax Inspector",
+    "mobile": "7981013344",
+    "percentage": 22.71
+  },
+  {
+    "sl_no": 12,
+    "ps_no": 222,
+    "aero": 5,
+    "name": "SMT M MAMATHA,",
+    "designation": "Sr.Asst",
+    "mobile": "9390008848",
+    "percentage": 28.3
+  },
+  {
+    "sl_no": 13,
+    "ps_no": 223,
+    "aero": 5,
+    "name": "SRI D SRINIVASA RAO,",
+    "designation": "Sr.Asst",
+    "mobile": "9885845054",
+    "percentage": 33.3
+  },
+  {
+    "sl_no": 14,
+    "ps_no": 224,
+    "aero": 5,
+    "name": "K Ashok Kumar",
+    "designation": "Sanitary Jawan",
+    "mobile": "7780380456",
+    "percentage": 35.41
+  },
+  {
+    "sl_no": 15,
+    "ps_no": 225,
+    "aero": 5,
+    "name": "Md. Gayasuddin",
+    "designation": "Sr.Asst",
+    "mobile": "8886023786",
+    "percentage": 54.67
+  },
+  {
+    "sl_no": 16,
+    "ps_no": 226,
+    "aero": 5,
+    "name": "K.HARI KISHAN REDDY",
+    "designation": "SFA",
+    "mobile": "9866600124",
+    "percentage": 17.36
+  },
+  {
+    "sl_no": 17,
+    "ps_no": 227,
+    "aero": 5,
+    "name": "SRI K NANDA KISHORE,",
+    "designation": "Sr.Asst",
+    "mobile": "9032234477",
+    "percentage": 40.53
+  },
+  {
+    "sl_no": 18,
+    "ps_no": 228,
+    "aero": 5,
+    "name": "SRI P GANGADHAR REDDY,",
+    "designation": "Sr.Asst",
+    "mobile": "9000109494",
+    "percentage": 22.2
+  },
+  {
+    "sl_no": 19,
+    "ps_no": 229,
+    "aero": 5,
+    "name": "M SWARAJ",
+    "designation": "Jr Asst",
+    "mobile": "9701673170",
+    "percentage": 22.42
+  },
+  {
+    "sl_no": 20,
+    "ps_no": 230,
+    "aero": 5,
+    "name": "MANDLA PRAVEEN KUMAR",
+    "designation": "Typist",
+    "mobile": "8125593829",
+    "percentage": 33.64
+  },
+  {
+    "sl_no": 21,
+    "ps_no": 231,
+    "aero": 5,
+    "name": "Monika",
+    "designation": "Jr Asst",
+    "mobile": "9989705328",
+    "percentage": 17.79
+  },
+  {
+    "sl_no": 22,
+    "ps_no": 232,
+    "aero": 5,
+    "name": "Syed Nouman Ahmed",
+    "designation": "Jr Asst",
+    "mobile": "9381020521",
+    "percentage": 26.73
+  },
+  {
+    "sl_no": 23,
+    "ps_no": 233,
+    "aero": 5,
+    "name": "C. SRINIVAS",
+    "designation": "SFA",
+    "mobile": "9052679230",
+    "percentage": 32.94
+  },
+  {
+    "sl_no": 24,
+    "ps_no": 234,
+    "aero": 5,
+    "name": "K Laxmi Narayana",
+    "designation": "Bill Collector",
+    "mobile": "9989930180",
+    "percentage": 24.62
+  },
+  {
+    "sl_no": 25,
+    "ps_no": 235,
+    "aero": 5,
+    "name": "B SaikiranGoud",
+    "designation": "Jr Asst",
+    "mobile": "7794990222",
+    "percentage": 23.13
+  },
+  {
+    "sl_no": 26,
+    "ps_no": 236,
+    "aero": 5,
+    "name": "Syed Khaleel Ali",
+    "designation": "Office Subordinate",
+    "mobile": "9985588983",
+    "percentage": 33.51
+  },
+  {
+    "sl_no": 27,
+    "ps_no": 237,
+    "aero": 5,
+    "name": "AYESHA BEGUM",
+    "designation": "Jr Asst",
+    "mobile": "8099961482",
+    "percentage": 30.38
+  },
+  {
+    "sl_no": 28,
+    "ps_no": 238,
+    "aero": 5,
+    "name": "JB Ushodaya",
+    "designation": "Jr Asst",
+    "mobile": "9441338999",
+    "percentage": 32.24
+  },
+  {
+    "sl_no": 29,
+    "ps_no": 239,
+    "aero": 5,
+    "name": "MISS JUWERIYA TASNEEM",
+    "designation": "Jr Asst",
+    "mobile": "9849414308",
+    "percentage": 50.95
+  },
+  {
+    "sl_no": 30,
+    "ps_no": 240,
+    "aero": 5,
+    "name": "R Anjaiah",
+    "designation": "Public Health Worker",
+    "mobile": "9441780404",
+    "percentage": 17.46
+  },
+  {
+    "sl_no": 31,
+    "ps_no": 241,
+    "aero": 5,
+    "name": "Mohammed Ibrahim",
+    "designation": "EFA",
+    "mobile": "9246262885",
+    "percentage": 21.09
+  },
+  {
+    "sl_no": 32,
+    "ps_no": 242,
+    "aero": 5,
+    "name": "SRI K RAVI KUMAR",
+    "designation": "Jr Asst",
+    "mobile": "6300711021",
+    "percentage": 26.52
+  },
+  {
+    "sl_no": 33,
+    "ps_no": 243,
+    "aero": 5,
+    "name": "SRI M NAGARAJU",
+    "designation": "GPO",
+    "mobile": "7989969117",
+    "percentage": 12.54
+  },
+  {
+    "sl_no": 34,
+    "ps_no": 244,
+    "aero": 5,
+    "name": "C Kistamma",
+    "designation": "Anganwadi Teacher",
+    "mobile": "7702000860",
+    "percentage": 25.16
+  },
+  {
+    "sl_no": 35,
+    "ps_no": 245,
+    "aero": 5,
+    "name": "T Satish Kumar",
+    "designation": "Bill Collector",
+    "mobile": "9618091193",
+    "percentage": 12.14
+  },
+  {
+    "sl_no": 36,
+    "ps_no": 246,
+    "aero": 5,
+    "name": "SRI MOHD JAVEED",
+    "designation": "Jr Asst",
+    "mobile": "9849679295",
+    "percentage": 33.6
+  },
+  {
+    "sl_no": 37,
+    "ps_no": 247,
+    "aero": 5,
+    "name": "K. Krupakaran",
+    "designation": "Jr Asst",
+    "mobile": "9948882608",
+    "percentage": 31.97
+  },
+  {
+    "sl_no": 38,
+    "ps_no": 248,
+    "aero": 5,
+    "name": "M RAKESH KUMAR",
+    "designation": "Sr.Asst",
+    "mobile": "9700899066",
+    "percentage": 18.91
+  },
+  {
+    "sl_no": 39,
+    "ps_no": 249,
+    "aero": 5,
+    "name": "M A JABBAR",
+    "designation": "Sr.Asst",
+    "mobile": "9985076570",
+    "percentage": 30.93
+  },
+  {
+    "sl_no": 40,
+    "ps_no": 250,
+    "aero": 5,
+    "name": "C Mallesh",
+    "designation": "EFA",
+    "mobile": "9000286563",
+    "percentage": 23.62
+  },
+  {
+    "sl_no": 10,
+    "ps_no": 251,
+    "aero": 6,
+    "name": "M.Bhaskar",
+    "designation": "Office Subordinate",
+    "mobile": "9032861508",
+    "percentage": 25.83
+  },
+  {
+    "sl_no": 11,
+    "ps_no": 252,
+    "aero": 6,
+    "name": "Nadeem",
+    "designation": "EFA",
+    "mobile": "6300401080",
+    "percentage": 33.51
+  },
+  {
+    "sl_no": 12,
+    "ps_no": 253,
+    "aero": 6,
+    "name": "N Yeshoda",
+    "designation": "Anganwadi Teacher",
+    "mobile": "9603504863",
+    "percentage": 25.83
+  },
+  {
+    "sl_no": 13,
+    "ps_no": 254,
+    "aero": 6,
+    "name": "Bharathamma",
+    "designation": "Anganwadi Teacher",
+    "mobile": "8712001485",
+    "percentage": 29.18
+  },
+  {
+    "sl_no": 14,
+    "ps_no": 255,
+    "aero": 6,
+    "name": "CHALLAPURAM ARCHANA",
+    "designation": "Jr Asst",
+    "mobile": "9032664604",
+    "percentage": 31.92
+  },
+  {
+    "sl_no": 15,
+    "ps_no": 256,
+    "aero": 6,
+    "name": "Sunitha",
+    "designation": "Anganwadi Teacher",
+    "mobile": "8179718518",
+    "percentage": 12.48
+  },
+  {
+    "sl_no": 16,
+    "ps_no": 257,
+    "aero": 6,
+    "name": "A.KRISHNA",
+    "designation": "SFA",
+    "mobile": "7386697303",
+    "percentage": 5.38
+  },
+  {
+    "sl_no": 17,
+    "ps_no": 258,
+    "aero": 6,
+    "name": "M PRAVEEN KUMAR",
+    "designation": "Sr.Asst",
+    "mobile": "8143385147",
+    "percentage": 27.06
+  },
+  {
+    "sl_no": 18,
+    "ps_no": 259,
+    "aero": 6,
+    "name": "VANNADA SHEKHAR",
+    "designation": "Sr.Asst",
+    "mobile": "6262545416",
+    "percentage": 29.25
+  },
+  {
+    "sl_no": 19,
+    "ps_no": 260,
+    "aero": 6,
+    "name": "C Lavanya",
+    "designation": "Office Subordinate",
+    "mobile": "8639854639",
+    "percentage": 28.54
+  },
+  {
+    "sl_no": 20,
+    "ps_no": 261,
+    "aero": 6,
+    "name": "Manoj Kumar",
+    "designation": "Sanitary Jawan",
+    "mobile": "9848642154",
+    "percentage": 21.13
+  },
+  {
+    "sl_no": 21,
+    "ps_no": 262,
+    "aero": 6,
+    "name": "J. Pushpamma",
+    "designation": "Sr.Asst",
+    "mobile": "9618566876",
+    "percentage": 24.68
+  },
+  {
+    "sl_no": 22,
+    "ps_no": 263,
+    "aero": 6,
+    "name": "Syed Ausaf Uddin",
+    "designation": "Jr Asst",
+    "mobile": "8919382715",
+    "percentage": 23.87
+  },
+  {
+    "sl_no": 23,
+    "ps_no": 264,
+    "aero": 6,
+    "name": "T VIKRAM TEJA",
+    "designation": "Sr.Asst",
+    "mobile": "9618227728",
+    "percentage": 16.82
+  },
+  {
+    "sl_no": 24,
+    "ps_no": 265,
+    "aero": 6,
+    "name": "K VENKAT RAMANA REDDY",
+    "designation": "Jr Asst",
+    "mobile": "9849102185",
+    "percentage": 27.31
+  },
+  {
+    "sl_no": 25,
+    "ps_no": 266,
+    "aero": 6,
+    "name": "M RAJINI",
+    "designation": "Sr.Asst",
+    "mobile": "9030050141",
+    "percentage": 26.06
+  },
+  {
+    "sl_no": 26,
+    "ps_no": 267,
+    "aero": 6,
+    "name": "Shaik Khaled",
+    "designation": "Record Assistant",
+    "mobile": "9989312642",
+    "percentage": 29.89
+  },
+  {
+    "sl_no": 27,
+    "ps_no": 268,
+    "aero": 6,
+    "name": "SMT MOHAMOODA BEGUM",
+    "designation": "Sr.Asst",
+    "mobile": "9885586907",
+    "percentage": 22.72
+  },
+  {
+    "sl_no": 28,
+    "ps_no": 269,
+    "aero": 6,
+    "name": "Raju",
+    "designation": "Public Health Worker",
+    "mobile": "7601031693",
+    "percentage": 28.68
+  },
+  {
+    "sl_no": 29,
+    "ps_no": 270,
+    "aero": 6,
+    "name": "Chandrakanth",
+    "designation": "Public Health Worker",
+    "mobile": "8688687535",
+    "percentage": 15.35
+  },
+  {
+    "sl_no": 30,
+    "ps_no": 271,
+    "aero": 6,
+    "name": "BANOTH GANGA MANI",
+    "designation": "Senior Translator",
+    "mobile": "9491338626",
+    "percentage": 18.6
+  },
+  {
+    "sl_no": 31,
+    "ps_no": 272,
+    "aero": 6,
+    "name": "S Ramesh",
+    "designation": "Sanitary Jawan",
+    "mobile": "9182317190",
+    "percentage": 29.35
+  },
+  {
+    "sl_no": 32,
+    "ps_no": 273,
+    "aero": 6,
+    "name": "B Shravan Kumar",
+    "designation": "Jr Asst",
+    "mobile": "9676796177",
+    "percentage": 26.83
+  },
+  {
+    "sl_no": 33,
+    "ps_no": 274,
+    "aero": 6,
+    "name": "KONDI SAILAJA",
+    "designation": "Senior Translator",
+    "mobile": "9908102048",
+    "percentage": 32.49
+  },
+  {
+    "sl_no": 34,
+    "ps_no": 275,
+    "aero": 6,
+    "name": "PEDDINTI SRINIVAS VENKATA",
+    "designation": "Senior Translator",
+    "mobile": "9966551697",
+    "percentage": 25.53
+  },
+  {
+    "sl_no": 35,
+    "ps_no": 276,
+    "aero": 6,
+    "name": "RANGARAJU SRIKANTH RAO",
+    "designation": "Senior Translator",
+    "mobile": "9014849580",
+    "percentage": 27.74
+  }
+]
