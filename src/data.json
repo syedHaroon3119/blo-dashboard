@@ -6,7 +6,11 @@
     "name": "A.Divya",
     "designation": "Jr inspector",
     "mobile": "8179934892",
-    "percentage": 62.16
+    "percentage": 64.07,
+    "total_electors": 1244,
+    "mapped_electors": 797,
+    "unmapped_electors": 447,
+    "anomalies": 238
   },
   {
     "sl_no": 2,
@@ -15,7 +19,11 @@
     "name": "NIKESH KUMAR",
     "designation": "Sr Asst",
     "mobile": "9966891279",
-    "percentage": 24.32
+    "percentage": 29.22,
+    "total_electors": 1215,
+    "mapped_electors": 355,
+    "unmapped_electors": 860,
+    "anomalies": 85
   },
   {
     "sl_no": 3,
@@ -24,7 +32,11 @@
     "name": "V ASHOK KUMAR",
     "designation": "Jr Asst",
     "mobile": "7702984714",
-    "percentage": 33.64
+    "percentage": 44.04,
+    "total_electors": 1519,
+    "mapped_electors": 669,
+    "unmapped_electors": 850,
+    "anomalies": 192
   },
   {
     "sl_no": 4,
@@ -33,7 +45,11 @@
     "name": "E KIRAN KUMAR",
     "designation": "Sr.Asst",
     "mobile": "9346665210",
-    "percentage": 24.6
+    "percentage": 26.01,
+    "total_electors": 1142,
+    "mapped_electors": 297,
+    "unmapped_electors": 845,
+    "anomalies": 66
   },
   {
     "sl_no": 5,
@@ -42,7 +58,11 @@
     "name": "A ROJA RANI",
     "designation": "Sr.Asst",
     "mobile": "9505369222",
-    "percentage": 29.08
+    "percentage": 31.49,
+    "total_electors": 1051,
+    "mapped_electors": 331,
+    "unmapped_electors": 720,
+    "anomalies": 101
   },
   {
     "sl_no": 6,
@@ -51,7 +71,11 @@
     "name": "R SWAROOPA",
     "designation": "Sr.Asst",
     "mobile": "7674072539",
-    "percentage": 33.26
+    "percentage": 33.19,
+    "total_electors": 470,
+    "mapped_electors": 156,
+    "unmapped_electors": 314,
+    "anomalies": 52
   },
   {
     "sl_no": 7,
@@ -60,7 +84,11 @@
     "name": "S.BABAIAH",
     "designation": "SFA",
     "mobile": "9848092775",
-    "percentage": 26.42
+    "percentage": 26.62,
+    "total_electors": 1187,
+    "mapped_electors": 316,
+    "unmapped_electors": 871,
+    "anomalies": 58
   },
   {
     "sl_no": 8,
@@ -69,7 +97,11 @@
     "name": "MD SHAOEB",
     "designation": "Jr Asst",
     "mobile": "8143445539",
-    "percentage": 24.81
+    "percentage": 27.39,
+    "total_electors": 1190,
+    "mapped_electors": 326,
+    "unmapped_electors": 864,
+    "anomalies": 86
   },
   {
     "sl_no": 9,
@@ -78,7 +110,11 @@
     "name": "MD YOUSUF",
     "designation": "Jr Asst",
     "mobile": "9959402907",
-    "percentage": 22.74
+    "percentage": 26.02,
+    "total_electors": 1153,
+    "mapped_electors": 300,
+    "unmapped_electors": 853,
+    "anomalies": 65
   },
   {
     "sl_no": 10,
@@ -87,7 +123,11 @@
     "name": "Anees Fathima",
     "designation": "Record Assistant",
     "mobile": "7794075598",
-    "percentage": 29.33
+    "percentage": 29.74,
+    "total_electors": 982,
+    "mapped_electors": 292,
+    "unmapped_electors": 690,
+    "anomalies": 57
   },
   {
     "sl_no": 11,
@@ -96,7 +136,11 @@
     "name": "SHAIK GHOUSE PASHA",
     "designation": "ATTENDER",
     "mobile": "9618721004",
-    "percentage": 30.16
+    "percentage": 32.45,
+    "total_electors": 1245,
+    "mapped_electors": 404,
+    "unmapped_electors": 841,
+    "anomalies": 134
   },
   {
     "sl_no": 12,
@@ -105,7 +149,11 @@
     "name": "N SUDHEER KUMAR",
     "designation": "Sr Asst",
     "mobile": "8247753936",
-    "percentage": 39.9
+    "percentage": 40.87,
+    "total_electors": 1172,
+    "mapped_electors": 479,
+    "unmapped_electors": 693,
+    "anomalies": 118
   },
   {
     "sl_no": 13,
@@ -114,7 +162,11 @@
     "name": "G Shiva Kumar",
     "designation": "Office Subordinate",
     "mobile": "9248759115",
-    "percentage": 61.61
+    "percentage": 67.71,
+    "total_electors": 929,
+    "mapped_electors": 629,
+    "unmapped_electors": 300,
+    "anomalies": 161
   },
   {
     "sl_no": 14,
@@ -123,7 +175,11 @@
     "name": "S PAVAN KUMAR",
     "designation": "Jr Asst",
     "mobile": "9989699064",
-    "percentage": 59.27
+    "percentage": 65.89,
+    "total_electors": 1117,
+    "mapped_electors": 736,
+    "unmapped_electors": 381,
+    "anomalies": 305
   },
   {
     "sl_no": 15,
@@ -132,7 +188,11 @@
     "name": "S RAKESH",
     "designation": "KAMTEE",
     "mobile": "9293804851",
-    "percentage": 42.78
+    "percentage": 43.47,
+    "total_electors": 1325,
+    "mapped_electors": 576,
+    "unmapped_electors": 749,
+    "anomalies": 135
   },
   {
     "sl_no": 16,
@@ -141,7 +201,11 @@
     "name": "R RAMYA",
     "designation": "Jr Asst",
     "mobile": "9949633374",
-    "percentage": 23.5
+    "percentage": 26.04,
+    "total_electors": 960,
+    "mapped_electors": 250,
+    "unmapped_electors": 710,
+    "anomalies": 60
   },
   {
     "sl_no": 17,
@@ -150,7 +214,11 @@
     "name": "JHANGIR PASHA",
     "designation": "ATTENDER",
     "mobile": "6304368857",
-    "percentage": 24.51
+    "percentage": 26.92,
+    "total_electors": 884,
+    "mapped_electors": 238,
+    "unmapped_electors": 646,
+    "anomalies": 52
   },
   {
     "sl_no": 18,
@@ -159,7 +227,11 @@
     "name": "J. Srinivas Rao",
     "designation": "Chowkidar",
     "mobile": "9966722214",
-    "percentage": 53.59
+    "percentage": 59.57,
+    "total_electors": 1128,
+    "mapped_electors": 672,
+    "unmapped_electors": 456,
+    "anomalies": 161
   },
   {
     "sl_no": 19,
@@ -168,7 +240,11 @@
     "name": "Mohd Hussain",
     "designation": "Jr Asst",
     "mobile": "9000454123",
-    "percentage": 59.44
+    "percentage": 62.2,
+    "total_electors": 1016,
+    "mapped_electors": 632,
+    "unmapped_electors": 384,
+    "anomalies": 190
   },
   {
     "sl_no": 20,
@@ -177,7 +253,11 @@
     "name": "A Akash",
     "designation": "Jr Asst",
     "mobile": "9030103702",
-    "percentage": 41.16
+    "percentage": 44.75,
+    "total_electors": 1218,
+    "mapped_electors": 545,
+    "unmapped_electors": 673,
+    "anomalies": 144
   },
   {
     "sl_no": 21,
@@ -186,7 +266,11 @@
     "name": "V Jaya Prakash",
     "designation": "Chowkidar",
     "mobile": "9676207217",
-    "percentage": 51.71
+    "percentage": 54.99,
+    "total_electors": 751,
+    "mapped_electors": 413,
+    "unmapped_electors": 338,
+    "anomalies": 150
   },
   {
     "sl_no": 22,
@@ -195,7 +279,11 @@
     "name": "S Papaiah",
     "designation": "SFA",
     "mobile": "9550557557",
-    "percentage": 21.73
+    "percentage": 25.72,
+    "total_electors": 1217,
+    "mapped_electors": 313,
+    "unmapped_electors": 904,
+    "anomalies": 54
   },
   {
     "sl_no": 23,
@@ -204,7 +292,11 @@
     "name": "T VENU",
     "designation": "Jr Asst",
     "mobile": "9603931492",
-    "percentage": 19.06
+    "percentage": 21.63,
+    "total_electors": 1276,
+    "mapped_electors": 276,
+    "unmapped_electors": 1000,
+    "anomalies": 54
   },
   {
     "sl_no": 24,
@@ -213,7 +305,11 @@
     "name": "A Srinivas",
     "designation": "Sanitary Jawan",
     "mobile": "7780524072",
-    "percentage": 49.19
+    "percentage": 51.22,
+    "total_electors": 1025,
+    "mapped_electors": 525,
+    "unmapped_electors": 500,
+    "anomalies": 176
   },
   {
     "sl_no": 25,
@@ -222,7 +318,11 @@
     "name": "Vannada Shekhar",
     "designation": "jr",
     "mobile": "6262545416",
-    "percentage": 33.69
+    "percentage": 55.05,
+    "total_electors": 1079,
+    "mapped_electors": 594,
+    "unmapped_electors": 485,
+    "anomalies": 109
   },
   {
     "sl_no": 26,
@@ -231,7 +331,11 @@
     "name": "Prem Kumar",
     "designation": "Bill Collector",
     "mobile": "7989313560",
-    "percentage": 35.46
+    "percentage": 42.65,
+    "total_electors": 1163,
+    "mapped_electors": 496,
+    "unmapped_electors": 667,
+    "anomalies": 135
   },
   {
     "sl_no": 27,
@@ -240,7 +344,11 @@
     "name": "S Sangeetha",
     "designation": "Record Assistant",
     "mobile": "8639300351",
-    "percentage": 29.61
+    "percentage": 33.2,
+    "total_electors": 994,
+    "mapped_electors": 330,
+    "unmapped_electors": 664,
+    "anomalies": 70
   },
   {
     "sl_no": 28,
@@ -249,7 +357,11 @@
     "name": "ABDUL BARI",
     "designation": "Jr Asst",
     "mobile": "9849796899",
-    "percentage": 37.91
+    "percentage": 50.7,
+    "total_electors": 1215,
+    "mapped_electors": 616,
+    "unmapped_electors": 599,
+    "anomalies": 172
   },
   {
     "sl_no": 29,
@@ -258,7 +370,11 @@
     "name": "J ALWAL",
     "designation": "Record Assistant",
     "mobile": "9848096933",
-    "percentage": 44.5
+    "percentage": 55.59,
+    "total_electors": 1153,
+    "mapped_electors": 641,
+    "unmapped_electors": 512,
+    "anomalies": 201
   },
   {
     "sl_no": 30,
@@ -267,7 +383,11 @@
     "name": "P.SUDHAKAR",
     "designation": "SFA",
     "mobile": "9966157848",
-    "percentage": 30.06
+    "percentage": 37.44,
+    "total_electors": 1290,
+    "mapped_electors": 483,
+    "unmapped_electors": 807,
+    "anomalies": 162
   },
   {
     "sl_no": 1,
@@ -276,7 +396,11 @@
     "name": "R Yadagiri",
     "designation": "Sanitary Jawan",
     "mobile": "8688304555",
-    "percentage": 33.72
+    "percentage": 38.81,
+    "total_electors": 1247,
+    "mapped_electors": 484,
+    "unmapped_electors": 763,
+    "anomalies": 105
   },
   {
     "sl_no": 2,
@@ -285,7 +409,11 @@
     "name": "Nagesh",
     "designation": "Tax Inspector",
     "mobile": "9989930515",
-    "percentage": 48.04
+    "percentage": 50.98,
+    "total_electors": 1526,
+    "mapped_electors": 778,
+    "unmapped_electors": 748,
+    "anomalies": 219
   },
   {
     "sl_no": 3,
@@ -294,7 +422,11 @@
     "name": "C Tulasiram",
     "designation": "Chowkidar",
     "mobile": "9701318968",
-    "percentage": 28.46
+    "percentage": 32.58,
+    "total_electors": 1553,
+    "mapped_electors": 506,
+    "unmapped_electors": 1047,
+    "anomalies": 163
   },
   {
     "sl_no": 4,
@@ -303,7 +435,11 @@
     "name": "K.RAMU",
     "designation": "SFA",
     "mobile": "9989774975",
-    "percentage": 47.38
+    "percentage": 49.39,
+    "total_electors": 1549,
+    "mapped_electors": 765,
+    "unmapped_electors": 784,
+    "anomalies": 196
   },
   {
     "sl_no": 5,
@@ -312,7 +448,11 @@
     "name": "P Jangaiah",
     "designation": "Sr.Asst",
     "mobile": "9949166528",
-    "percentage": 43.99
+    "percentage": 51.57,
+    "total_electors": 1559,
+    "mapped_electors": 804,
+    "unmapped_electors": 755,
+    "anomalies": 242
   },
   {
     "sl_no": 6,
@@ -321,7 +461,11 @@
     "name": "SMT P PARVATI",
     "designation": "Sr.Asst",
     "mobile": "9398825760",
-    "percentage": 30.52
+    "percentage": 45.42,
+    "total_electors": 1385,
+    "mapped_electors": 629,
+    "unmapped_electors": 756,
+    "anomalies": 210
   },
   {
     "sl_no": 7,
@@ -330,7 +474,11 @@
     "name": "Smt M Vanaja",
     "designation": "Sr.Asst",
     "mobile": "9652512585",
-    "percentage": 21.88
+    "percentage": 34.06,
+    "total_electors": 1474,
+    "mapped_electors": 502,
+    "unmapped_electors": 972,
+    "anomalies": 183
   },
   {
     "sl_no": 8,
@@ -339,7 +487,11 @@
     "name": "G Ramesh",
     "designation": "Chowkidar",
     "mobile": "8897546705",
-    "percentage": 26.42
+    "percentage": 32.17,
+    "total_electors": 1430,
+    "mapped_electors": 460,
+    "unmapped_electors": 970,
+    "anomalies": 148
   },
   {
     "sl_no": 9,
@@ -348,7 +500,11 @@
     "name": "SRI B AVINASH",
     "designation": "Sr.Asst",
     "mobile": "9676709316",
-    "percentage": 37.05
+    "percentage": 45.0,
+    "total_electors": 1280,
+    "mapped_electors": 576,
+    "unmapped_electors": 704,
+    "anomalies": 207
   },
   {
     "sl_no": 10,
@@ -357,7 +513,11 @@
     "name": "M Muralidhar",
     "designation": "Typist",
     "mobile": "7569791854",
-    "percentage": 37.38
+    "percentage": 45.73,
+    "total_electors": 949,
+    "mapped_electors": 434,
+    "unmapped_electors": 515,
+    "anomalies": 105
   },
   {
     "sl_no": 11,
@@ -366,7 +526,11 @@
     "name": "Qhadar Bin Hasan",
     "designation": "Daffedar",
     "mobile": "9849878086",
-    "percentage": 33.01
+    "percentage": 35.84,
+    "total_electors": 1172,
+    "mapped_electors": 420,
+    "unmapped_electors": 752,
+    "anomalies": 109
   },
   {
     "sl_no": 12,
@@ -375,7 +539,11 @@
     "name": "SRI P PRAVEEN KUMAR",
     "designation": "Sr.Asst",
     "mobile": "7396246152",
-    "percentage": 42.72
+    "percentage": 49.54,
+    "total_electors": 1197,
+    "mapped_electors": 593,
+    "unmapped_electors": 604,
+    "anomalies": 160
   },
   {
     "sl_no": 13,
@@ -384,7 +552,11 @@
     "name": "M Srikamal",
     "designation": "Binder",
     "mobile": "8125100726",
-    "percentage": 34.13
+    "percentage": 45.36,
+    "total_electors": 1109,
+    "mapped_electors": 503,
+    "unmapped_electors": 606,
+    "anomalies": 162
   },
   {
     "sl_no": 14,
@@ -393,7 +565,11 @@
     "name": "B. Heera Bai",
     "designation": "Chainmen",
     "mobile": "8500528103",
-    "percentage": 39.78
+    "percentage": 44.24,
+    "total_electors": 1119,
+    "mapped_electors": 495,
+    "unmapped_electors": 624,
+    "anomalies": 135
   },
   {
     "sl_no": 15,
@@ -402,7 +578,11 @@
     "name": "MOHAMMED SAIF AHMAD",
     "designation": "AUDITOR",
     "mobile": "8143331356",
-    "percentage": 38.37
+    "percentage": 40.88,
+    "total_electors": 1211,
+    "mapped_electors": 495,
+    "unmapped_electors": 716,
+    "anomalies": 149
   },
   {
     "sl_no": 16,
@@ -411,7 +591,11 @@
     "name": "K. Mounika",
     "designation": "Bill Collector",
     "mobile": "9966789697",
-    "percentage": 21.77
+    "percentage": 24.6,
+    "total_electors": 1191,
+    "mapped_electors": 293,
+    "unmapped_electors": 898,
+    "anomalies": 95
   },
   {
     "sl_no": 17,
@@ -420,7 +604,11 @@
     "name": "SRI SYED SOHAIL",
     "designation": "Sr.Asst",
     "mobile": "8099623815",
-    "percentage": 33.97
+    "percentage": 37.4,
+    "total_electors": 853,
+    "mapped_electors": 319,
+    "unmapped_electors": 534,
+    "anomalies": 84
   },
   {
     "sl_no": 18,
@@ -429,7 +617,11 @@
     "name": "B Jyothi",
     "designation": "Public Health Worker",
     "mobile": "9985930485",
-    "percentage": 25.17
+    "percentage": 27.6,
+    "total_electors": 1058,
+    "mapped_electors": 292,
+    "unmapped_electors": 766,
+    "anomalies": 84
   },
   {
     "sl_no": 19,
@@ -438,7 +630,11 @@
     "name": "B Andalu",
     "designation": "Public Health Worker",
     "mobile": "9912878725",
-    "percentage": 29.74
+    "percentage": 31.29,
+    "total_electors": 1026,
+    "mapped_electors": 321,
+    "unmapped_electors": 705,
+    "anomalies": 68
   },
   {
     "sl_no": 20,
@@ -447,7 +643,11 @@
     "name": "P Sridhar",
     "designation": "Public Health Worker",
     "mobile": "9394713975",
-    "percentage": 24.81
+    "percentage": 32.27,
+    "total_electors": 1196,
+    "mapped_electors": 386,
+    "unmapped_electors": 810,
+    "anomalies": 120
   },
   {
     "sl_no": 21,
@@ -456,7 +656,11 @@
     "name": "A Narsing Rao",
     "designation": "Public Health Worker",
     "mobile": "9390898721",
-    "percentage": 21.26
+    "percentage": 23.68,
+    "total_electors": 925,
+    "mapped_electors": 219,
+    "unmapped_electors": 706,
+    "anomalies": 43
   },
   {
     "sl_no": 22,
@@ -465,7 +669,11 @@
     "name": "C Surender",
     "designation": "Public Health Worker",
     "mobile": "7729051290",
-    "percentage": 22.13
+    "percentage": 23.35,
+    "total_electors": 1285,
+    "mapped_electors": 300,
+    "unmapped_electors": 985,
+    "anomalies": 59
   },
   {
     "sl_no": 23,
@@ -474,7 +682,11 @@
     "name": "B. Krishna Kumar",
     "designation": "Sr.Printer DC",
     "mobile": "9949123611",
-    "percentage": 25.31
+    "percentage": 30.34,
+    "total_electors": 1246,
+    "mapped_electors": 378,
+    "unmapped_electors": 868,
+    "anomalies": 88
   },
   {
     "sl_no": 24,
@@ -483,7 +695,11 @@
     "name": "SMT ASRA FATIMA",
     "designation": "Sr.Asst",
     "mobile": "6300261038",
-    "percentage": 39.27
+    "percentage": 43.86,
+    "total_electors": 1140,
+    "mapped_electors": 500,
+    "unmapped_electors": 640,
+    "anomalies": 106
   },
   {
     "sl_no": 25,
@@ -492,7 +708,11 @@
     "name": "SMT M MAMATHA,",
     "designation": "Jr Asst",
     "mobile": "9515389576",
-    "percentage": 32.56
+    "percentage": 34.56,
+    "total_electors": 1140,
+    "mapped_electors": 394,
+    "unmapped_electors": 746,
+    "anomalies": 111
   },
   {
     "sl_no": 1,
@@ -501,7 +721,11 @@
     "name": "B.VINOD KUMAR",
     "designation": "SFA",
     "mobile": "9700884489",
-    "percentage": 23.96
+    "percentage": 33.79,
+    "total_electors": 1033,
+    "mapped_electors": 349,
+    "unmapped_electors": 684,
+    "anomalies": 78
   },
   {
     "sl_no": 2,
@@ -510,7 +734,11 @@
     "name": "P Vishwanadh Goud",
     "designation": "Tax Inspector",
     "mobile": "9100025173",
-    "percentage": 22.92
+    "percentage": 31.67,
+    "total_electors": 1080,
+    "mapped_electors": 342,
+    "unmapped_electors": 738,
+    "anomalies": 66
   },
   {
     "sl_no": 3,
@@ -519,7 +747,11 @@
     "name": "N Usha",
     "designation": "Public Health Worker",
     "mobile": "7337271977",
-    "percentage": 24.79
+    "percentage": 32.66,
+    "total_electors": 1087,
+    "mapped_electors": 355,
+    "unmapped_electors": 732,
+    "anomalies": 87
   },
   {
     "sl_no": 4,
@@ -528,7 +760,11 @@
     "name": "K Yethishwari",
     "designation": "Sanitary Jawan",
     "mobile": "9700703420",
-    "percentage": 16.75
+    "percentage": 30.49,
+    "total_electors": 1079,
+    "mapped_electors": 329,
+    "unmapped_electors": 750,
+    "anomalies": 80
   },
   {
     "sl_no": 5,
@@ -537,7 +773,11 @@
     "name": "SMT J MAITREYEE",
     "designation": "Sr.Asst",
     "mobile": "8790983748",
-    "percentage": 23.72
+    "percentage": 27.37,
+    "total_electors": 1235,
+    "mapped_electors": 338,
+    "unmapped_electors": 897,
+    "anomalies": 87
   },
   {
     "sl_no": 6,
@@ -546,7 +786,11 @@
     "name": "Mir Azeem Ullah",
     "designation": "Jr Asst",
     "mobile": "9347006547",
-    "percentage": 42.03
+    "percentage": 47.34,
+    "total_electors": 1090,
+    "mapped_electors": 516,
+    "unmapped_electors": 574,
+    "anomalies": 127
   },
   {
     "sl_no": 7,
@@ -555,7 +799,11 @@
     "name": "ROHIT KUMAR K",
     "designation": "Jr Asst",
     "mobile": "9121592057",
-    "percentage": 27.78
+    "percentage": 42.56,
+    "total_electors": 1170,
+    "mapped_electors": 498,
+    "unmapped_electors": 672,
+    "anomalies": 172
   },
   {
     "sl_no": 8,
@@ -564,7 +812,11 @@
     "name": "Vasantha Kumari",
     "designation": "Anganwadi Teacher",
     "mobile": "8712002159",
-    "percentage": 13.42
+    "percentage": 29.75,
+    "total_electors": 1099,
+    "mapped_electors": 327,
+    "unmapped_electors": 772,
+    "anomalies": 146
   },
   {
     "sl_no": 9,
@@ -573,7 +825,11 @@
     "name": "T Venu gopal yadav",
     "designation": "Work inspector",
     "mobile": "9866048865",
-    "percentage": 32.01
+    "percentage": 43.9,
+    "total_electors": 1173,
+    "mapped_electors": 515,
+    "unmapped_electors": 658,
+    "anomalies": 136
   },
   {
     "sl_no": 10,
@@ -582,7 +838,11 @@
     "name": "N Sudha Bhavani",
     "designation": "Anganwadi Teacher",
     "mobile": "9553993267",
-    "percentage": 35.01
+    "percentage": 49.71,
+    "total_electors": 1191,
+    "mapped_electors": 592,
+    "unmapped_electors": 599,
+    "anomalies": 174
   },
   {
     "sl_no": 11,
@@ -591,7 +851,11 @@
     "name": "Da Kamala",
     "designation": "Anganwadi Teacher",
     "mobile": "9393375104",
-    "percentage": 46.51
+    "percentage": 49.52,
+    "total_electors": 1141,
+    "mapped_electors": 565,
+    "unmapped_electors": 576,
+    "anomalies": 275
   },
   {
     "sl_no": 12,
@@ -600,7 +864,11 @@
     "name": "DAULAGHAR KRISHNA KUMAR",
     "designation": "Sr.Asst",
     "mobile": "9912155525",
-    "percentage": 24.5
+    "percentage": 36.41,
+    "total_electors": 1225,
+    "mapped_electors": 446,
+    "unmapped_electors": 779,
+    "anomalies": 135
   },
   {
     "sl_no": 13,
@@ -609,7 +877,11 @@
     "name": "R Santhoshamma",
     "designation": "RP",
     "mobile": "9848261519",
-    "percentage": 23.62
+    "percentage": 33.4,
+    "total_electors": 1027,
+    "mapped_electors": 343,
+    "unmapped_electors": 684,
+    "anomalies": 129
   },
   {
     "sl_no": 14,
@@ -618,7 +890,11 @@
     "name": "B Sujatha",
     "designation": "Anganwadi Teacher",
     "mobile": "9553370151",
-    "percentage": 16.31
+    "percentage": 44.03,
+    "total_electors": 904,
+    "mapped_electors": 398,
+    "unmapped_electors": 506,
+    "anomalies": 239
   },
   {
     "sl_no": 26,
@@ -627,7 +903,11 @@
     "name": "M RAMA",
     "designation": "Sr.Asst",
     "mobile": "9676941343",
-    "percentage": 27.49
+    "percentage": 35.33,
+    "total_electors": 1271,
+    "mapped_electors": 449,
+    "unmapped_electors": 822,
+    "anomalies": 101
   },
   {
     "sl_no": 27,
@@ -636,7 +916,11 @@
     "name": "Mukesh",
     "designation": "Bill Collector",
     "mobile": "7207426162",
-    "percentage": 28.2
+    "percentage": 37.62,
+    "total_electors": 1135,
+    "mapped_electors": 427,
+    "unmapped_electors": 708,
+    "anomalies": 108
   },
   {
     "sl_no": 28,
@@ -645,7 +929,11 @@
     "name": "SRI C YADAIAH",
     "designation": "Sr.Asst",
     "mobile": "9885880604",
-    "percentage": 31.39
+    "percentage": 39.42,
+    "total_electors": 1352,
+    "mapped_electors": 533,
+    "unmapped_electors": 819,
+    "anomalies": 146
   },
   {
     "sl_no": 29,
@@ -654,7 +942,11 @@
     "name": "Ch Meghamala",
     "designation": "Sr.Asst",
     "mobile": "9100160369",
-    "percentage": 21.2
+    "percentage": 36.73,
+    "total_electors": 1051,
+    "mapped_electors": 386,
+    "unmapped_electors": 665,
+    "anomalies": 105
   },
   {
     "sl_no": 30,
@@ -663,7 +955,11 @@
     "name": "R SAI HARSHA VARDHAN",
     "designation": "Sr.Asst",
     "mobile": "9493311888",
-    "percentage": 27.52
+    "percentage": 41.55,
+    "total_electors": 1165,
+    "mapped_electors": 484,
+    "unmapped_electors": 681,
+    "anomalies": 101
   },
   {
     "sl_no": 31,
@@ -672,7 +968,11 @@
     "name": "SUPARNA (FUND)",
     "designation": "Sr.Asst",
     "mobile": "9573561107",
-    "percentage": 24.63
+    "percentage": 35.25,
+    "total_electors": 902,
+    "mapped_electors": 318,
+    "unmapped_electors": 584,
+    "anomalies": 95
   },
   {
     "sl_no": 32,
@@ -681,7 +981,11 @@
     "name": "M Swaroopa",
     "designation": "Anganwadi Teacher",
     "mobile": "9989717676",
-    "percentage": 47.39
+    "percentage": 53.58,
+    "total_electors": 1538,
+    "mapped_electors": 824,
+    "unmapped_electors": 714,
+    "anomalies": 161
   },
   {
     "sl_no": 33,
@@ -690,7 +994,11 @@
     "name": "M SURENDER REDDY",
     "designation": "Sr.Asst",
     "mobile": "9010220176",
-    "percentage": 43
+    "percentage": 51.26,
+    "total_electors": 1305,
+    "mapped_electors": 669,
+    "unmapped_electors": 636,
+    "anomalies": 160
   },
   {
     "sl_no": 34,
@@ -699,7 +1007,11 @@
     "name": "S JERNALI SINGH BEDI",
     "designation": "Sr.Asst",
     "mobile": "9701925467",
-    "percentage": 38.93
+    "percentage": 44.14,
+    "total_electors": 1373,
+    "mapped_electors": 606,
+    "unmapped_electors": 767,
+    "anomalies": 159
   },
   {
     "sl_no": 1,
@@ -708,7 +1020,11 @@
     "name": "Shaik Allauddin",
     "designation": "Jr Asst",
     "mobile": "9666560408",
-    "percentage": 59.18
+    "percentage": 65.44,
+    "total_electors": 1415,
+    "mapped_electors": 926,
+    "unmapped_electors": 489,
+    "anomalies": 300
   },
   {
     "sl_no": 2,
@@ -717,7 +1033,11 @@
     "name": "S YADAGIRI",
     "designation": "Sr.Asst",
     "mobile": "9492307157",
-    "percentage": 39.49
+    "percentage": 45.2,
+    "total_electors": 1166,
+    "mapped_electors": 527,
+    "unmapped_electors": 639,
+    "anomalies": 157
   },
   {
     "sl_no": 3,
@@ -726,7 +1046,11 @@
     "name": "S Ashok",
     "designation": "Community Organizer",
     "mobile": "7842528350",
-    "percentage": 44.64
+    "percentage": 49.02,
+    "total_electors": 1473,
+    "mapped_electors": 722,
+    "unmapped_electors": 751,
+    "anomalies": 227
   },
   {
     "sl_no": 4,
@@ -735,7 +1059,11 @@
     "name": "E JEEVAN JYOTHI",
     "designation": "Sr.Asst",
     "mobile": "7799611836",
-    "percentage": 60.24
+    "percentage": 63.06,
+    "total_electors": 1470,
+    "mapped_electors": 927,
+    "unmapped_electors": 543,
+    "anomalies": 341
   },
   {
     "sl_no": 5,
@@ -744,7 +1072,11 @@
     "name": "R CHANDRA MOHAN",
     "designation": "Jr Asst",
     "mobile": "8790442369",
-    "percentage": 60.49
+    "percentage": 64.8,
+    "total_electors": 1375,
+    "mapped_electors": 891,
+    "unmapped_electors": 484,
+    "anomalies": 358
   },
   {
     "sl_no": 6,
@@ -753,7 +1085,11 @@
     "name": "M PRAHALAD SINGH RATHOD",
     "designation": "Sr.Asst",
     "mobile": "9618418612",
-    "percentage": 37.43
+    "percentage": 46.07,
+    "total_electors": 1335,
+    "mapped_electors": 615,
+    "unmapped_electors": 720,
+    "anomalies": 192
   },
   {
     "sl_no": 7,
@@ -762,7 +1098,11 @@
     "name": "M SRINIVAS",
     "designation": "Sr.Asst",
     "mobile": "9849624688",
-    "percentage": 41.5
+    "percentage": 47.88,
+    "total_electors": 1228,
+    "mapped_electors": 588,
+    "unmapped_electors": 640,
+    "anomalies": 170
   },
   {
     "sl_no": 8,
@@ -771,7 +1111,11 @@
     "name": "V.MAHESH",
     "designation": "SFA",
     "mobile": "6304443973",
-    "percentage": 34.27
+    "percentage": 46.15,
+    "total_electors": 533,
+    "mapped_electors": 246,
+    "unmapped_electors": 287,
+    "anomalies": 51
   },
   {
     "sl_no": 9,
@@ -780,7 +1124,11 @@
     "name": "MOHD RIHANA BEGUM",
     "designation": "Sr.Asst",
     "mobile": "9441219602",
-    "percentage": 46.44
+    "percentage": 47.62,
+    "total_electors": 1472,
+    "mapped_electors": 701,
+    "unmapped_electors": 771,
+    "anomalies": 220
   },
   {
     "sl_no": 10,
@@ -789,7 +1137,11 @@
     "name": "FARAZ AHMED ABBASI",
     "designation": "Jr Asst",
     "mobile": "7893618818",
-    "percentage": 51.46
+    "percentage": 55.65,
+    "total_electors": 1574,
+    "mapped_electors": 876,
+    "unmapped_electors": 698,
+    "anomalies": 230
   },
   {
     "sl_no": 11,
@@ -798,7 +1150,11 @@
     "name": "CH SATISH DHAVAN",
     "designation": "Sr.Asst",
     "mobile": "8885296822",
-    "percentage": 50.88
+    "percentage": 51.4,
+    "total_electors": 1574,
+    "mapped_electors": 809,
+    "unmapped_electors": 765,
+    "anomalies": 258
   },
   {
     "sl_no": 12,
@@ -807,7 +1163,11 @@
     "name": "Mohammed Mohiuddin Hussain",
     "designation": "Jr Asst",
     "mobile": "7794032863",
-    "percentage": 39.8
+    "percentage": 42.52,
+    "total_electors": 1557,
+    "mapped_electors": 662,
+    "unmapped_electors": 895,
+    "anomalies": 194
   },
   {
     "sl_no": 13,
@@ -816,7 +1176,11 @@
     "name": "K.SAI NAG",
     "designation": "SFA",
     "mobile": "9059090690",
-    "percentage": 32.83
+    "percentage": 31.85,
+    "total_electors": 1441,
+    "mapped_electors": 459,
+    "unmapped_electors": 982,
+    "anomalies": 166
   },
   {
     "sl_no": 14,
@@ -825,7 +1189,11 @@
     "name": "I/c Surya Prasad",
     "designation": "SFA",
     "mobile": "9000568587",
-    "percentage": 23.86
+    "percentage": 25.27,
+    "total_electors": 1480,
+    "mapped_electors": 374,
+    "unmapped_electors": 1106,
+    "anomalies": 71
   },
   {
     "sl_no": 15,
@@ -834,7 +1202,11 @@
     "name": "S.NARSING",
     "designation": "SFA",
     "mobile": "9063063031",
-    "percentage": 37.77
+    "percentage": 36.76,
+    "total_electors": 1409,
+    "mapped_electors": 518,
+    "unmapped_electors": 891,
+    "anomalies": 100
   },
   {
     "sl_no": 16,
@@ -843,7 +1215,11 @@
     "name": "ZUBAIR",
     "designation": "SFA",
     "mobile": "9885787321",
-    "percentage": 31.82
+    "percentage": 35.86,
+    "total_electors": 1492,
+    "mapped_electors": 535,
+    "unmapped_electors": 957,
+    "anomalies": 129
   },
   {
     "sl_no": 17,
@@ -852,7 +1228,11 @@
     "name": "BESTHA B NAGARAJU",
     "designation": "Typist",
     "mobile": "7893527274",
-    "percentage": 57.67
+    "percentage": 60.06,
+    "total_electors": 1352,
+    "mapped_electors": 812,
+    "unmapped_electors": 540,
+    "anomalies": 184
   },
   {
     "sl_no": 18,
@@ -861,7 +1241,11 @@
     "name": "B SRINIVASULU",
     "designation": "Jr Asst",
     "mobile": "9885046190",
-    "percentage": 24.7
+    "percentage": 39.36,
+    "total_electors": 1405,
+    "mapped_electors": 553,
+    "unmapped_electors": 852,
+    "anomalies": 169
   },
   {
     "sl_no": 19,
@@ -870,7 +1254,11 @@
     "name": "V Dhruva Kumar Reddy",
     "designation": "Jr Asst",
     "mobile": "8309963282",
-    "percentage": 47.13
+    "percentage": 51.09,
+    "total_electors": 1280,
+    "mapped_electors": 654,
+    "unmapped_electors": 626,
+    "anomalies": 152
   },
   {
     "sl_no": 20,
@@ -879,7 +1267,11 @@
     "name": "T UMA MAHESHWARI",
     "designation": "Sr.Asst",
     "mobile": "9492034998",
-    "percentage": 51.08
+    "percentage": 51.88,
+    "total_electors": 958,
+    "mapped_electors": 497,
+    "unmapped_electors": 461,
+    "anomalies": 168
   },
   {
     "sl_no": 21,
@@ -888,7 +1280,11 @@
     "name": "E Rajgopal",
     "designation": "Office Subordinate",
     "mobile": "9985832066",
-    "percentage": 33.73
+    "percentage": 48.78,
+    "total_electors": 939,
+    "mapped_electors": 458,
+    "unmapped_electors": 481,
+    "anomalies": 110
   },
   {
     "sl_no": 1,
@@ -897,7 +1293,11 @@
     "name": "SYED GAHAFOOR",
     "designation": "SFA",
     "mobile": "9032107044",
-    "percentage": 32.51
+    "percentage": 43.52,
+    "total_electors": 1521,
+    "mapped_electors": 662,
+    "unmapped_electors": 859,
+    "anomalies": 187
   },
   {
     "sl_no": 2,
@@ -906,7 +1306,11 @@
     "name": "B Praveen",
     "designation": "Jr Asst",
     "mobile": "9493156566",
-    "percentage": 29.93
+    "percentage": 36.82,
+    "total_electors": 1358,
+    "mapped_electors": 500,
+    "unmapped_electors": 858,
+    "anomalies": 169
   },
   {
     "sl_no": 3,
@@ -915,7 +1319,11 @@
     "name": "M Manjula",
     "designation": "Anganwadi Teacher",
     "mobile": "8712745432",
-    "percentage": 19.4
+    "percentage": 20.68,
+    "total_electors": 1446,
+    "mapped_electors": 299,
+    "unmapped_electors": 1147,
+    "anomalies": 57
   },
   {
     "sl_no": 4,
@@ -924,7 +1332,11 @@
     "name": "V Preethi",
     "designation": "Anganwadi Teacher",
     "mobile": "8712001491",
-    "percentage": 41.8
+    "percentage": 48.53,
+    "total_electors": 680,
+    "mapped_electors": 330,
+    "unmapped_electors": 350,
+    "anomalies": 78
   },
   {
     "sl_no": 5,
@@ -933,7 +1345,11 @@
     "name": "B Vasantha",
     "designation": "Sanitary Jawan",
     "mobile": "9908794221",
-    "percentage": 4.04
+    "percentage": 4.98,
+    "total_electors": 643,
+    "mapped_electors": 32,
+    "unmapped_electors": 611,
+    "anomalies": 15
   },
   {
     "sl_no": 6,
@@ -942,7 +1358,11 @@
     "name": "S Mallesh",
     "designation": "Public Health Worker",
     "mobile": "9059010439",
-    "percentage": 34.05
+    "percentage": 35.6,
+    "total_electors": 1455,
+    "mapped_electors": 518,
+    "unmapped_electors": 937,
+    "anomalies": 99
   },
   {
     "sl_no": 7,
@@ -951,7 +1371,11 @@
     "name": "B. DHANRAJ",
     "designation": "SFA",
     "mobile": "9291239562",
-    "percentage": 37.22
+    "percentage": 43.25,
+    "total_electors": 1473,
+    "mapped_electors": 637,
+    "unmapped_electors": 836,
+    "anomalies": 121
   },
   {
     "sl_no": 8,
@@ -960,7 +1384,11 @@
     "name": "G Pavan Kumar",
     "designation": "Public Health Worker",
     "mobile": "7670817669",
-    "percentage": 38.63
+    "percentage": 39.14,
+    "total_electors": 1068,
+    "mapped_electors": 418,
+    "unmapped_electors": 650,
+    "anomalies": 99
   },
   {
     "sl_no": 9,
@@ -969,7 +1397,11 @@
     "name": "Sulochana",
     "designation": "Anganwadi Teacher",
     "mobile": "9441866600",
-    "percentage": 37.32
+    "percentage": 36.34,
+    "total_electors": 1288,
+    "mapped_electors": 468,
+    "unmapped_electors": 820,
+    "anomalies": 204
   },
   {
     "sl_no": 10,
@@ -978,7 +1410,11 @@
     "name": "M JAGADEESH",
     "designation": "Record Assistant",
     "mobile": "9959662566",
-    "percentage": 25.69
+    "percentage": 26.76,
+    "total_electors": 1020,
+    "mapped_electors": 273,
+    "unmapped_electors": 747,
+    "anomalies": 75
   },
   {
     "sl_no": 11,
@@ -987,7 +1423,11 @@
     "name": "G Sridevi",
     "designation": "Sr.Asst",
     "mobile": "9581111156",
-    "percentage": 20.23
+    "percentage": 21.98,
+    "total_electors": 1397,
+    "mapped_electors": 307,
+    "unmapped_electors": 1090,
+    "anomalies": 137
   },
   {
     "sl_no": 12,
@@ -996,7 +1436,11 @@
     "name": "B Krishana",
     "designation": "Sr.Asst",
     "mobile": "7032260854",
-    "percentage": 9.27
+    "percentage": 15.55,
+    "total_electors": 1196,
+    "mapped_electors": 186,
+    "unmapped_electors": 1010,
+    "anomalies": 65
   },
   {
     "sl_no": 13,
@@ -1005,7 +1449,11 @@
     "name": "Sabira",
     "designation": "Sr.Asst",
     "mobile": "7680947814",
-    "percentage": 25.8
+    "percentage": 32.6,
+    "total_electors": 1494,
+    "mapped_electors": 487,
+    "unmapped_electors": 1007,
+    "anomalies": 151
   },
   {
     "sl_no": 14,
@@ -1014,7 +1462,11 @@
     "name": "Krishana",
     "designation": "Kamatee",
     "mobile": "9010415196",
-    "percentage": 19.31
+    "percentage": 19.87,
+    "total_electors": 1394,
+    "mapped_electors": 277,
+    "unmapped_electors": 1117,
+    "anomalies": 109
   },
   {
     "sl_no": 15,
@@ -1023,7 +1475,11 @@
     "name": "M Narsing Rao",
     "designation": "Sanitary Jawan",
     "mobile": "9912034203",
-    "percentage": 27.04
+    "percentage": 27.04,
+    "total_electors": 1276,
+    "mapped_electors": 345,
+    "unmapped_electors": 931,
+    "anomalies": 105
   },
   {
     "sl_no": 16,
@@ -1032,7 +1488,11 @@
     "name": "D.Rakesh",
     "designation": "Khallasi",
     "mobile": "9494828814",
-    "percentage": 23.54
+    "percentage": 4.98,
+    "total_electors": 1386,
+    "mapped_electors": 69,
+    "unmapped_electors": 1317,
+    "anomalies": 13
   },
   {
     "sl_no": 17,
@@ -1041,7 +1501,11 @@
     "name": "G APARNA",
     "designation": "Jr Asst",
     "mobile": "7287966517",
-    "percentage": 25.4
+    "percentage": 27.24,
+    "total_electors": 1340,
+    "mapped_electors": 365,
+    "unmapped_electors": 975,
+    "anomalies": 75
   },
   {
     "sl_no": 18,
@@ -1050,7 +1514,11 @@
     "name": "Avinash Kumar",
     "designation": "Sr.Asst",
     "mobile": "7331121406",
-    "percentage": 24.07
+    "percentage": 29.82,
+    "total_electors": 1368,
+    "mapped_electors": 408,
+    "unmapped_electors": 960,
+    "anomalies": 146
   },
   {
     "sl_no": 19,
@@ -1059,7 +1527,11 @@
     "name": "P Ramchander",
     "designation": "Sanitary Jawan",
     "mobile": "7995518947",
-    "percentage": 33.31
+    "percentage": 35.97,
+    "total_electors": 1354,
+    "mapped_electors": 487,
+    "unmapped_electors": 867,
+    "anomalies": 144
   },
   {
     "sl_no": 20,
@@ -1068,7 +1540,11 @@
     "name": "Azhar Ali Baig",
     "designation": "Khallasi",
     "mobile": "9032593538",
-    "percentage": 29.36
+    "percentage": 31.82,
+    "total_electors": 1392,
+    "mapped_electors": 443,
+    "unmapped_electors": 949,
+    "anomalies": 179
   },
   {
     "sl_no": 21,
@@ -1077,7 +1553,11 @@
     "name": "K Narsing Rao",
     "designation": "Chowkidar",
     "mobile": "9959414300",
-    "percentage": 17.9
+    "percentage": 23.81,
+    "total_electors": 1075,
+    "mapped_electors": 256,
+    "unmapped_electors": 819,
+    "anomalies": 86
   },
   {
     "sl_no": 22,
@@ -1086,7 +1566,11 @@
     "name": "B S Narender",
     "designation": "Bill Collector",
     "mobile": "9642020130",
-    "percentage": 31.25
+    "percentage": 34.01,
+    "total_electors": 785,
+    "mapped_electors": 267,
+    "unmapped_electors": 518,
+    "anomalies": 83
   },
   {
     "sl_no": 23,
@@ -1095,7 +1579,11 @@
     "name": "A. Sai Kiran",
     "designation": "Jr Asst",
     "mobile": "9700609283",
-    "percentage": 40.79
+    "percentage": 52.49,
+    "total_electors": 1303,
+    "mapped_electors": 684,
+    "unmapped_electors": 619,
+    "anomalies": 260
   },
   {
     "sl_no": 24,
@@ -1104,7 +1592,11 @@
     "name": "J Devi",
     "designation": "Office Subordinate",
     "mobile": "9949189761",
-    "percentage": 33.84
+    "percentage": 39.08,
+    "total_electors": 1397,
+    "mapped_electors": 546,
+    "unmapped_electors": 851,
+    "anomalies": 179
   },
   {
     "sl_no": 25,
@@ -1113,7 +1605,11 @@
     "name": "Nausar Narsamma",
     "designation": "Jr Asst",
     "mobile": "9959987400",
-    "percentage": 32.14
+    "percentage": 34.29,
+    "total_electors": 1114,
+    "mapped_electors": 382,
+    "unmapped_electors": 732,
+    "anomalies": 114
   },
   {
     "sl_no": 26,
@@ -1122,7 +1618,11 @@
     "name": "Md.Ghouse",
     "designation": "Binder (SGP)",
     "mobile": "9959527777",
-    "percentage": 29.14
+    "percentage": 30.16,
+    "total_electors": 1303,
+    "mapped_electors": 393,
+    "unmapped_electors": 910,
+    "anomalies": 109
   },
   {
     "sl_no": 27,
@@ -1131,7 +1631,11 @@
     "name": "FAREEDA AKHTER",
     "designation": "Jr Asst",
     "mobile": "9949353629",
-    "percentage": 35.39
+    "percentage": 45.18,
+    "total_electors": 1534,
+    "mapped_electors": 693,
+    "unmapped_electors": 841,
+    "anomalies": 217
   },
   {
     "sl_no": 28,
@@ -1140,7 +1644,11 @@
     "name": "Mahender",
     "designation": "Sanitary Jawan",
     "mobile": "9100831418",
-    "percentage": 28.66
+    "percentage": 33.14,
+    "total_electors": 1355,
+    "mapped_electors": 449,
+    "unmapped_electors": 906,
+    "anomalies": 112
   },
   {
     "sl_no": 29,
@@ -1149,7 +1657,11 @@
     "name": "V RAJAIAH",
     "designation": "Jr Asst",
     "mobile": "8096545847",
-    "percentage": 27.83
+    "percentage": 30.1,
+    "total_electors": 1349,
+    "mapped_electors": 406,
+    "unmapped_electors": 943,
+    "anomalies": 111
   },
   {
     "sl_no": 30,
@@ -1158,7 +1670,11 @@
     "name": "K Raju",
     "designation": "Office Subordinate",
     "mobile": "7330710343",
-    "percentage": 31.34
+    "percentage": 37.5,
+    "total_electors": 1392,
+    "mapped_electors": 522,
+    "unmapped_electors": 870,
+    "anomalies": 127
   },
   {
     "sl_no": 31,
@@ -1167,7 +1683,11 @@
     "name": "Fareesa Jabeen",
     "designation": "Medical Lab Technologist",
     "mobile": "9908662487",
-    "percentage": 32.86
+    "percentage": 36.54,
+    "total_electors": 1579,
+    "mapped_electors": 577,
+    "unmapped_electors": 1002,
+    "anomalies": 129
   },
   {
     "sl_no": 32,
@@ -1176,7 +1696,11 @@
     "name": "Akshara",
     "designation": "Assistant Engineer",
     "mobile": "7331189751",
-    "percentage": 31.71
+    "percentage": 33.19,
+    "total_electors": 1425,
+    "mapped_electors": 473,
+    "unmapped_electors": 952,
+    "anomalies": 111
   },
   {
     "sl_no": 33,
@@ -1185,7 +1709,11 @@
     "name": "Mrs. Juveria Mahmood.",
     "designation": "Medical Lab Technologist",
     "mobile": "8019576905",
-    "percentage": 37.85
+    "percentage": 40.58,
+    "total_electors": 1476,
+    "mapped_electors": 599,
+    "unmapped_electors": 877,
+    "anomalies": 143
   },
   {
     "sl_no": 34,
@@ -1194,7 +1722,11 @@
     "name": "K.NAVEEN KUMAR",
     "designation": "TASK WRITER",
     "mobile": "9293055957",
-    "percentage": 51.66
+    "percentage": 57.34,
+    "total_electors": 1362,
+    "mapped_electors": 781,
+    "unmapped_electors": 581,
+    "anomalies": 195
   },
   {
     "sl_no": 35,
@@ -1203,7 +1735,11 @@
     "name": "Mohd Mohsin Ali",
     "designation": "Khallasi",
     "mobile": "9705441549",
-    "percentage": 29.54
+    "percentage": 32.45,
+    "total_electors": 1550,
+    "mapped_electors": 503,
+    "unmapped_electors": 1047,
+    "anomalies": 109
   },
   {
     "sl_no": 36,
@@ -1212,7 +1748,11 @@
     "name": "Mohd Osman Khan",
     "designation": "Jr Asst",
     "mobile": "9959069068",
-    "percentage": 54.87
+    "percentage": 61.77,
+    "total_electors": 1334,
+    "mapped_electors": 824,
+    "unmapped_electors": 510,
+    "anomalies": 187
   },
   {
     "sl_no": 37,
@@ -1221,7 +1761,11 @@
     "name": "Rohit",
     "designation": "Computer",
     "mobile": "7675805373",
-    "percentage": 20.18
+    "percentage": 21.92,
+    "total_electors": 1250,
+    "mapped_electors": 274,
+    "unmapped_electors": 976,
+    "anomalies": 54
   },
   {
     "sl_no": 38,
@@ -1230,7 +1774,11 @@
     "name": "K.TIRUMALESH",
     "designation": "TASK WRITER",
     "mobile": "9346822587",
-    "percentage": 26.58
+    "percentage": 32.18,
+    "total_electors": 1451,
+    "mapped_electors": 467,
+    "unmapped_electors": 984,
+    "anomalies": 117
   },
   {
     "sl_no": 39,
@@ -1239,7 +1787,11 @@
     "name": "MD MAHMOODUDDIN FAROOQUI",
     "designation": "Jr Asst",
     "mobile": "8125231661",
-    "percentage": 23.37
+    "percentage": 33.57,
+    "total_electors": 1287,
+    "mapped_electors": 432,
+    "unmapped_electors": 855,
+    "anomalies": 162
   },
   {
     "sl_no": 1,
@@ -1248,7 +1800,11 @@
     "name": "MOHD ZAYEEMUDDIN",
     "designation": "Jr Asst",
     "mobile": "8179402248",
-    "percentage": 31.75
+    "percentage": 37.68,
+    "total_electors": 1274,
+    "mapped_electors": 480,
+    "unmapped_electors": 794,
+    "anomalies": 121
   },
   {
     "sl_no": 2,
@@ -1257,7 +1813,11 @@
     "name": "Syed zishan Husain",
     "designation": "Jr Asst",
     "mobile": "8886790601",
-    "percentage": 36.35
+    "percentage": 40.9,
+    "total_electors": 1181,
+    "mapped_electors": 483,
+    "unmapped_electors": 698,
+    "anomalies": 96
   },
   {
     "sl_no": 3,
@@ -1266,7 +1826,11 @@
     "name": "Syed Akbar",
     "designation": "SFA",
     "mobile": "7780171722",
-    "percentage": 34.77
+    "percentage": 46.61,
+    "total_electors": 1504,
+    "mapped_electors": 701,
+    "unmapped_electors": 803,
+    "anomalies": 157
   },
   {
     "sl_no": 4,
@@ -1275,7 +1839,11 @@
     "name": "ABDUL",
     "designation": "EFA",
     "mobile": "9676212896",
-    "percentage": 48.83
+    "percentage": 54.94,
+    "total_electors": 1296,
+    "mapped_electors": 712,
+    "unmapped_electors": 584,
+    "anomalies": 151
   },
   {
     "sl_no": 5,
@@ -1284,7 +1852,11 @@
     "name": "MOHAMMED MOHIUDDIN",
     "designation": "EFA",
     "mobile": "9959068507",
-    "percentage": 49.48
+    "percentage": 54.56,
+    "total_electors": 1382,
+    "mapped_electors": 754,
+    "unmapped_electors": 628,
+    "anomalies": 207
   },
   {
     "sl_no": 6,
@@ -1293,7 +1865,11 @@
     "name": "SRI MOHD SHAREEF,",
     "designation": "Jr Asst",
     "mobile": "9440067687",
-    "percentage": 47.62
+    "percentage": 59.13,
+    "total_electors": 1402,
+    "mapped_electors": 829,
+    "unmapped_electors": 573,
+    "anomalies": 223
   },
   {
     "sl_no": 7,
@@ -1302,7 +1878,11 @@
     "name": "DHEERAVATH RAMESH",
     "designation": "LIBRARIAN",
     "mobile": "8500401233",
-    "percentage": 30.82
+    "percentage": 45.55,
+    "total_electors": 1168,
+    "mapped_electors": 532,
+    "unmapped_electors": 636,
+    "anomalies": 145
   },
   {
     "sl_no": 8,
@@ -1311,7 +1891,11 @@
     "name": "TALARI SUMAN\"",
     "designation": "",
     "mobile": "7702977212",
-    "percentage": 21.9
+    "percentage": 33.86,
+    "total_electors": 1385,
+    "mapped_electors": 469,
+    "unmapped_electors": 916,
+    "anomalies": 125
   },
   {
     "sl_no": 9,
@@ -1320,7 +1904,11 @@
     "name": "Bilal Hussain",
     "designation": "EFA",
     "mobile": "8341377533",
-    "percentage": 30.55
+    "percentage": 35.97,
+    "total_electors": 1290,
+    "mapped_electors": 464,
+    "unmapped_electors": 826,
+    "anomalies": 100
   },
   {
     "sl_no": 10,
@@ -1329,7 +1917,11 @@
     "name": "B RAMANJANEYAMMA",
     "designation": "Jr Asst",
     "mobile": "8328428933",
-    "percentage": 34.15
+    "percentage": 33.83,
+    "total_electors": 949,
+    "mapped_electors": 321,
+    "unmapped_electors": 628,
+    "anomalies": 73
   },
   {
     "sl_no": 11,
@@ -1338,7 +1930,11 @@
     "name": "SATHYAVATHY",
     "designation": "LIBRARIAN",
     "mobile": "8125844368",
-    "percentage": 22.29
+    "percentage": 30.65,
+    "total_electors": 1119,
+    "mapped_electors": 343,
+    "unmapped_electors": 776,
+    "anomalies": 90
   },
   {
     "sl_no": 12,
@@ -1347,7 +1943,11 @@
     "name": "Shaik Hussain",
     "designation": "Tax Inspector",
     "mobile": "7416747041",
-    "percentage": 22.6
+    "percentage": 47.88,
+    "total_electors": 1063,
+    "mapped_electors": 509,
+    "unmapped_electors": 554,
+    "anomalies": 146
   },
   {
     "sl_no": 13,
@@ -1356,7 +1956,11 @@
     "name": "M Umavathi",
     "designation": "EFA",
     "mobile": "6302066524",
-    "percentage": 22.21
+    "percentage": 43.19,
+    "total_electors": 1160,
+    "mapped_electors": 501,
+    "unmapped_electors": 659,
+    "anomalies": 176
   },
   {
     "sl_no": 14,
@@ -1365,7 +1969,11 @@
     "name": "Raju",
     "designation": "Sanitary Jawan",
     "mobile": "8341326747",
-    "percentage": 50.38
+    "percentage": 60.2,
+    "total_electors": 1088,
+    "mapped_electors": 655,
+    "unmapped_electors": 433,
+    "anomalies": 329
   },
   {
     "sl_no": 15,
@@ -1374,7 +1982,11 @@
     "name": "A Mohan Babu",
     "designation": "Bill Collector",
     "mobile": "9618166572",
-    "percentage": 35.72
+    "percentage": 48.52,
+    "total_electors": 911,
+    "mapped_electors": 442,
+    "unmapped_electors": 469,
+    "anomalies": 117
   },
   {
     "sl_no": 16,
@@ -1383,7 +1995,11 @@
     "name": "M.PRABHAKAR",
     "designation": "SFA",
     "mobile": "8309314395",
-    "percentage": 29.99
+    "percentage": 36.08,
+    "total_electors": 959,
+    "mapped_electors": 346,
+    "unmapped_electors": 613,
+    "anomalies": 162
   },
   {
     "sl_no": 17,
@@ -1392,7 +2008,11 @@
     "name": "I/c Sudharshan Goud",
     "designation": "SFA",
     "mobile": "9705995012",
-    "percentage": 19.29
+    "percentage": 28.75,
+    "total_electors": 1287,
+    "mapped_electors": 370,
+    "unmapped_electors": 917,
+    "anomalies": 106
   },
   {
     "sl_no": 18,
@@ -1401,7 +2021,11 @@
     "name": "THURUPATI ANASUYA",
     "designation": "Sr.Asst",
     "mobile": "6303789641",
-    "percentage": 41.75
+    "percentage": 44.83,
+    "total_electors": 939,
+    "mapped_electors": 421,
+    "unmapped_electors": 518,
+    "anomalies": 175
   },
   {
     "sl_no": 19,
@@ -1410,7 +2034,11 @@
     "name": "DUBBAKA PENTA GANGADHAR",
     "designation": "Sr.Asst",
     "mobile": "9948010245",
-    "percentage": 26.98
+    "percentage": 27.71,
+    "total_electors": 581,
+    "mapped_electors": 161,
+    "unmapped_electors": 420,
+    "anomalies": 31
   },
   {
     "sl_no": 20,
@@ -1419,7 +2047,11 @@
     "name": "B Dinakar Raj",
     "designation": "Jr Asst",
     "mobile": "9700683866",
-    "percentage": 32.9
+    "percentage": 36.74,
+    "total_electors": 694,
+    "mapped_electors": 255,
+    "unmapped_electors": 439,
+    "anomalies": 40
   },
   {
     "sl_no": 21,
@@ -1428,7 +2060,11 @@
     "name": "K Sujal",
     "designation": "Jr Asst",
     "mobile": "7801084027",
-    "percentage": 39.23
+    "percentage": 41.53,
+    "total_electors": 1045,
+    "mapped_electors": 434,
+    "unmapped_electors": 611,
+    "anomalies": 87
   },
   {
     "sl_no": 22,
@@ -1437,7 +2073,11 @@
     "name": "E Naresh",
     "designation": "EFA",
     "mobile": "9398537274",
-    "percentage": 33.37
+    "percentage": 46.77,
+    "total_electors": 868,
+    "mapped_electors": 406,
+    "unmapped_electors": 462,
+    "anomalies": 147
   },
   {
     "sl_no": 23,
@@ -1446,7 +2086,11 @@
     "name": "T. VENKATESH",
     "designation": "SFA",
     "mobile": "9346167978",
-    "percentage": 27.01
+    "percentage": 33.07,
+    "total_electors": 1031,
+    "mapped_electors": 341,
+    "unmapped_electors": 690,
+    "anomalies": 83
   },
   {
     "sl_no": 24,
@@ -1455,7 +2099,11 @@
     "name": "N DAMODHAR",
     "designation": "Jr Asst",
     "mobile": "9177978121",
-    "percentage": 24.62
+    "percentage": 29.26,
+    "total_electors": 1319,
+    "mapped_electors": 386,
+    "unmapped_electors": 933,
+    "anomalies": 110
   },
   {
     "sl_no": 15,
@@ -1464,7 +2112,11 @@
     "name": "Vr Rama Kumari",
     "designation": "Anganwadi Teacher",
     "mobile": "8247391312",
-    "percentage": 19.28
+    "percentage": 27.75,
+    "total_electors": 1146,
+    "mapped_electors": 318,
+    "unmapped_electors": 828,
+    "anomalies": 131
   },
   {
     "sl_no": 16,
@@ -1473,7 +2125,11 @@
     "name": "SRI B NAGARAJU",
     "designation": "Office Supdt",
     "mobile": "9704028944",
-    "percentage": 30.75
+    "percentage": 32.78,
+    "total_electors": 1086,
+    "mapped_electors": 356,
+    "unmapped_electors": 730,
+    "anomalies": 96
   },
   {
     "sl_no": 17,
@@ -1482,7 +2138,11 @@
     "name": "NUSRATH WAHEEDA",
     "designation": "Jr Asst",
     "mobile": "9989648244",
-    "percentage": 44.16
+    "percentage": 47.13,
+    "total_electors": 1288,
+    "mapped_electors": 607,
+    "unmapped_electors": 681,
+    "anomalies": 149
   },
   {
     "sl_no": 18,
@@ -1491,7 +2151,11 @@
     "name": "Savithri",
     "designation": "Anganwadi Teacher",
     "mobile": "8712001498",
-    "percentage": 38.71
+    "percentage": 45.59,
+    "total_electors": 1134,
+    "mapped_electors": 517,
+    "unmapped_electors": 617,
+    "anomalies": 129
   },
   {
     "sl_no": 1,
@@ -1500,7 +2164,11 @@
     "name": "E Ramesh Kumar",
     "designation": "Lab Attendant",
     "mobile": "9963581463",
-    "percentage": 19.83
+    "percentage": 27.83,
+    "total_electors": 1308,
+    "mapped_electors": 364,
+    "unmapped_electors": 944,
+    "anomalies": 111
   },
   {
     "sl_no": 2,
@@ -1509,7 +2177,11 @@
     "name": "G Mukhyanand",
     "designation": "OHS",
     "mobile": "9700059489",
-    "percentage": 24.35
+    "percentage": 28.31,
+    "total_electors": 1035,
+    "mapped_electors": 293,
+    "unmapped_electors": 742,
+    "anomalies": 133
   },
   {
     "sl_no": 3,
@@ -1518,7 +2190,11 @@
     "name": "G Suresh",
     "designation": "Telephone attendant",
     "mobile": "8790294772",
-    "percentage": 24.28
+    "percentage": 27.97,
+    "total_electors": 1044,
+    "mapped_electors": 292,
+    "unmapped_electors": 752,
+    "anomalies": 97
   },
   {
     "sl_no": 4,
@@ -1527,7 +2203,11 @@
     "name": "Heeralal",
     "designation": "Asst Dhobi",
     "mobile": "7799383006",
-    "percentage": 34.57
+    "percentage": 35.32,
+    "total_electors": 1189,
+    "mapped_electors": 420,
+    "unmapped_electors": 769,
+    "anomalies": 138
   },
   {
     "sl_no": 5,
@@ -1536,7 +2216,11 @@
     "name": "DIVE PRASANTH",
     "designation": "Jr Asst",
     "mobile": "8019202909",
-    "percentage": 35.49
+    "percentage": 36.01,
+    "total_electors": 1169,
+    "mapped_electors": 421,
+    "unmapped_electors": 748,
+    "anomalies": 96
   },
   {
     "sl_no": 6,
@@ -1545,7 +2229,11 @@
     "name": "Chandrashekar",
     "designation": "SS",
     "mobile": "9985382020",
-    "percentage": 23.51
+    "percentage": 24.54,
+    "total_electors": 1459,
+    "mapped_electors": 358,
+    "unmapped_electors": 1101,
+    "anomalies": 93
   },
   {
     "sl_no": 7,
@@ -1554,7 +2242,11 @@
     "name": "BADA POOLA",
     "designation": "Jr Asst",
     "mobile": "9618620072",
-    "percentage": 20.86
+    "percentage": 34.24,
+    "total_electors": 1256,
+    "mapped_electors": 430,
+    "unmapped_electors": 826,
+    "anomalies": 177
   },
   {
     "sl_no": 8,
@@ -1563,7 +2255,11 @@
     "name": "E J Joel,",
     "designation": "Junior Assistant",
     "mobile": "9177232011",
-    "percentage": 17.99
+    "percentage": 24.14,
+    "total_electors": 1313,
+    "mapped_electors": 317,
+    "unmapped_electors": 996,
+    "anomalies": 97
   },
   {
     "sl_no": 9,
@@ -1572,7 +2268,11 @@
     "name": "SRI M SRAVAN KUMAR",
     "designation": "Jr Asst",
     "mobile": "9000606566",
-    "percentage": 10.21
+    "percentage": 18.5,
+    "total_electors": 1130,
+    "mapped_electors": 209,
+    "unmapped_electors": 921,
+    "anomalies": 89
   },
   {
     "sl_no": 22,
@@ -1581,7 +2281,11 @@
     "name": "SRI MOHD SADIQ HUSSAIN",
     "designation": "Jr Asst",
     "mobile": "9391311938",
-    "percentage": 17.11
+    "percentage": 30.1,
+    "total_electors": 1289,
+    "mapped_electors": 388,
+    "unmapped_electors": 901,
+    "anomalies": 129
   },
   {
     "sl_no": 23,
@@ -1590,7 +2294,11 @@
     "name": "P.Narsing Rao",
     "designation": "Binder (SPPS 1A)",
     "mobile": "9398973027",
-    "percentage": 23.35
+    "percentage": 25.67,
+    "total_electors": 1348,
+    "mapped_electors": 346,
+    "unmapped_electors": 1002,
+    "anomalies": 107
   },
   {
     "sl_no": 24,
@@ -1599,7 +2307,11 @@
     "name": "BASSI.SRIDHAR",
     "designation": "SFA",
     "mobile": "7207337779",
-    "percentage": 36.07
+    "percentage": 46.85,
+    "total_electors": 1240,
+    "mapped_electors": 581,
+    "unmapped_electors": 659,
+    "anomalies": 191
   },
   {
     "sl_no": 25,
@@ -1608,7 +2320,11 @@
     "name": "Laxmi Prasanna",
     "designation": "Jr Asst",
     "mobile": "9550642917",
-    "percentage": 23.82
+    "percentage": 31.08,
+    "total_electors": 1255,
+    "mapped_electors": 390,
+    "unmapped_electors": 865,
+    "anomalies": 120
   },
   {
     "sl_no": 26,
@@ -1617,7 +2333,11 @@
     "name": "Zakira Sultana",
     "designation": "Anganwadi Teacher",
     "mobile": "8712001444",
-    "percentage": 20.86
+    "percentage": 32.48,
+    "total_electors": 1333,
+    "mapped_electors": 433,
+    "unmapped_electors": 900,
+    "anomalies": 147
   },
   {
     "sl_no": 27,
@@ -1626,7 +2346,11 @@
     "name": "Syed Irfan uddin",
     "designation": "Billing",
     "mobile": "9676194573",
-    "percentage": 20.56
+    "percentage": 34.54,
+    "total_electors": 1135,
+    "mapped_electors": 392,
+    "unmapped_electors": 743,
+    "anomalies": 118
   },
   {
     "sl_no": 28,
@@ -1635,7 +2359,11 @@
     "name": "M Madhusudhan Rao",
     "designation": "Jr Asst",
     "mobile": "9133778068",
-    "percentage": 26.76
+    "percentage": 46.43,
+    "total_electors": 1316,
+    "mapped_electors": 611,
+    "unmapped_electors": 705,
+    "anomalies": 175
   },
   {
     "sl_no": 29,
@@ -1644,7 +2372,11 @@
     "name": "A Sujatha Yadav",
     "designation": "Anganwadi Teacher",
     "mobile": "8309786972",
-    "percentage": 25.21
+    "percentage": 28.03,
+    "total_electors": 1527,
+    "mapped_electors": 428,
+    "unmapped_electors": 1099,
+    "anomalies": 77
   },
   {
     "sl_no": 30,
@@ -1653,7 +2385,11 @@
     "name": "B Sujatha",
     "designation": "Anganwadi Teacher",
     "mobile": "8712001441",
-    "percentage": 28.16
+    "percentage": 31.06,
+    "total_electors": 1497,
+    "mapped_electors": 465,
+    "unmapped_electors": 1032,
+    "anomalies": 122
   },
   {
     "sl_no": 31,
@@ -1662,7 +2398,11 @@
     "name": "M.PANDU",
     "designation": "SFA",
     "mobile": "9848459669",
-    "percentage": 22.44
+    "percentage": 26.99,
+    "total_electors": 1056,
+    "mapped_electors": 285,
+    "unmapped_electors": 771,
+    "anomalies": 74
   },
   {
     "sl_no": 32,
@@ -1671,7 +2411,11 @@
     "name": "K.SARAIAH",
     "designation": "SFA",
     "mobile": "9989825059",
-    "percentage": 27.3
+    "percentage": 40.57,
+    "total_electors": 1521,
+    "mapped_electors": 617,
+    "unmapped_electors": 904,
+    "anomalies": 156
   },
   {
     "sl_no": 33,
@@ -1680,7 +2424,11 @@
     "name": "K Vanitha",
     "designation": "Anganwadi Teacher",
     "mobile": "8712001445",
-    "percentage": 25.6
+    "percentage": 37.55,
+    "total_electors": 1494,
+    "mapped_electors": 561,
+    "unmapped_electors": 933,
+    "anomalies": 174
   },
   {
     "sl_no": 34,
@@ -1689,7 +2437,11 @@
     "name": "CHANDRAKALA",
     "designation": "Asha Worker",
     "mobile": "6301473560",
-    "percentage": 28.41
+    "percentage": 44.09,
+    "total_electors": 1091,
+    "mapped_electors": 481,
+    "unmapped_electors": 610,
+    "anomalies": 157
   },
   {
     "sl_no": 35,
@@ -1698,7 +2450,11 @@
     "name": "KAVITHA",
     "designation": "Asha Worker",
     "mobile": "9059207405",
-    "percentage": 20.95
+    "percentage": 35.46,
+    "total_electors": 1410,
+    "mapped_electors": 500,
+    "unmapped_electors": 910,
+    "anomalies": 158
   },
   {
     "sl_no": 36,
@@ -1707,7 +2463,11 @@
     "name": "N Krishnaiah",
     "designation": "Community Organizer",
     "mobile": "8686413049",
-    "percentage": 20.44
+    "percentage": 37.3,
+    "total_electors": 1252,
+    "mapped_electors": 467,
+    "unmapped_electors": 785,
+    "anomalies": 131
   },
   {
     "sl_no": 37,
@@ -1716,7 +2476,11 @@
     "name": "S Uma Rani",
     "designation": "Anganwadi Teacher",
     "mobile": "9989255725",
-    "percentage": 25.62
+    "percentage": 33.0,
+    "total_electors": 1412,
+    "mapped_electors": 466,
+    "unmapped_electors": 946,
+    "anomalies": 131
   },
   {
     "sl_no": 38,
@@ -1725,7 +2489,11 @@
     "name": "T Rajender Singh",
     "designation": "Eng Work Inspector.",
     "mobile": "9989713719",
-    "percentage": 27.58
+    "percentage": 29.15,
+    "total_electors": 1338,
+    "mapped_electors": 390,
+    "unmapped_electors": 948,
+    "anomalies": 85
   },
   {
     "sl_no": 19,
@@ -1734,7 +2502,11 @@
     "name": "Ramesh",
     "designation": "Public Health Worker",
     "mobile": "7981915683",
-    "percentage": 23.92
+    "percentage": 29.88,
+    "total_electors": 1255,
+    "mapped_electors": 375,
+    "unmapped_electors": 880,
+    "anomalies": 96
   },
   {
     "sl_no": 20,
@@ -1743,7 +2515,11 @@
     "name": "J Lavanya",
     "designation": "Public Health Worker",
     "mobile": "9391820260",
-    "percentage": 28.92
+    "percentage": 31.62,
+    "total_electors": 1009,
+    "mapped_electors": 319,
+    "unmapped_electors": 690,
+    "anomalies": 68
   },
   {
     "sl_no": 21,
@@ -1752,7 +2528,11 @@
     "name": "C Lalitha",
     "designation": "Public Health Worker",
     "mobile": "9182577366",
-    "percentage": 25.09
+    "percentage": 34.23,
+    "total_electors": 1075,
+    "mapped_electors": 368,
+    "unmapped_electors": 707,
+    "anomalies": 84
   },
   {
     "sl_no": 22,
@@ -1761,7 +2541,11 @@
     "name": "H Krishna",
     "designation": "Public Health Worker",
     "mobile": "7680938600",
-    "percentage": 28.34
+    "percentage": 32.65,
+    "total_electors": 1225,
+    "mapped_electors": 400,
+    "unmapped_electors": 825,
+    "anomalies": 69
   },
   {
     "sl_no": 23,
@@ -1770,7 +2554,11 @@
     "name": "V Chinna Babu",
     "designation": "Public Health Worker",
     "mobile": "9010717097",
-    "percentage": 17.56
+    "percentage": 27.09,
+    "total_electors": 971,
+    "mapped_electors": 263,
+    "unmapped_electors": 708,
+    "anomalies": 84
   },
   {
     "sl_no": 24,
@@ -1779,7 +2567,11 @@
     "name": "D SURENDER",
     "designation": "Jr Asst",
     "mobile": "9849138790",
-    "percentage": 18.15
+    "percentage": 20.06,
+    "total_electors": 972,
+    "mapped_electors": 195,
+    "unmapped_electors": 777,
+    "anomalies": 37
   },
   {
     "sl_no": 25,
@@ -1788,7 +2580,11 @@
     "name": "SYED IFTEQAR AHMED",
     "designation": "Jr Asst",
     "mobile": "9182980365",
-    "percentage": 46.83
+    "percentage": 48.89,
+    "total_electors": 943,
+    "mapped_electors": 461,
+    "unmapped_electors": 482,
+    "anomalies": 167
   },
   {
     "sl_no": 26,
@@ -1797,7 +2593,11 @@
     "name": "SALEEM HUSSAIN",
     "designation": "SFA",
     "mobile": "9700742409",
-    "percentage": 25.35
+    "percentage": 26.68,
+    "total_electors": 1027,
+    "mapped_electors": 274,
+    "unmapped_electors": 753,
+    "anomalies": 52
   },
   {
     "sl_no": 27,
@@ -1806,7 +2606,11 @@
     "name": "G Heera",
     "designation": "RP",
     "mobile": "9347745308",
-    "percentage": 40.49
+    "percentage": 41.2,
+    "total_electors": 1221,
+    "mapped_electors": 503,
+    "unmapped_electors": 718,
+    "anomalies": 175
   },
   {
     "sl_no": 28,
@@ -1815,7 +2619,11 @@
     "name": "L Padma",
     "designation": "RP",
     "mobile": "8801198130",
-    "percentage": 31.68
+    "percentage": 31.45,
+    "total_electors": 1205,
+    "mapped_electors": 379,
+    "unmapped_electors": 826,
+    "anomalies": 93
   },
   {
     "sl_no": 29,
@@ -1824,7 +2632,11 @@
     "name": "G Karuna",
     "designation": "RP",
     "mobile": "9393882812",
-    "percentage": 31.1
+    "percentage": 31.2,
+    "total_electors": 1519,
+    "mapped_electors": 474,
+    "unmapped_electors": 1045,
+    "anomalies": 70
   },
   {
     "sl_no": 30,
@@ -1833,7 +2645,11 @@
     "name": "Kasala Keerthi",
     "designation": "Anganwadi Teacher",
     "mobile": "7675878957",
-    "percentage": 29.86
+    "percentage": 31.03,
+    "total_electors": 1518,
+    "mapped_electors": 471,
+    "unmapped_electors": 1047,
+    "anomalies": 111
   },
   {
     "sl_no": 31,
@@ -1842,7 +2658,11 @@
     "name": "K Padma",
     "designation": "Anganwadi Teacher",
     "mobile": "8712002168",
-    "percentage": 22.28
+    "percentage": 25.28,
+    "total_electors": 1416,
+    "mapped_electors": 358,
+    "unmapped_electors": 1058,
+    "anomalies": 109
   },
   {
     "sl_no": 32,
@@ -1851,7 +2671,11 @@
     "name": "Madhavi",
     "designation": "RP",
     "mobile": "7993556819",
-    "percentage": 34.74
+    "percentage": 36.35,
+    "total_electors": 1249,
+    "mapped_electors": 454,
+    "unmapped_electors": 795,
+    "anomalies": 185
   },
   {
     "sl_no": 33,
@@ -1860,7 +2684,11 @@
     "name": "MD SHAHABUDDIN",
     "designation": "Sr.Asst",
     "mobile": "9948748579",
-    "percentage": 33.41
+    "percentage": 38.05,
+    "total_electors": 1330,
+    "mapped_electors": 506,
+    "unmapped_electors": 824,
+    "anomalies": 175
   },
   {
     "sl_no": 34,
@@ -1869,7 +2697,11 @@
     "name": "L Kavitha",
     "designation": "RP",
     "mobile": "9346806228",
-    "percentage": 32.54
+    "percentage": 33.5,
+    "total_electors": 985,
+    "mapped_electors": 330,
+    "unmapped_electors": 655,
+    "anomalies": 118
   },
   {
     "sl_no": 35,
@@ -1878,7 +2710,11 @@
     "name": "Swarna latha",
     "designation": "RP",
     "mobile": "8008472501",
-    "percentage": 30.13
+    "percentage": 32.92,
+    "total_electors": 1455,
+    "mapped_electors": 479,
+    "unmapped_electors": 976,
+    "anomalies": 154
   },
   {
     "sl_no": 36,
@@ -1887,7 +2723,11 @@
     "name": "Rajeshwari",
     "designation": "RP",
     "mobile": "7842639288",
-    "percentage": 32.5
+    "percentage": 38.7,
+    "total_electors": 1297,
+    "mapped_electors": 502,
+    "unmapped_electors": 795,
+    "anomalies": 196
   },
   {
     "sl_no": 1,
@@ -1896,7 +2736,11 @@
     "name": "Spoorthy",
     "designation": "Assistant Executive Engineer",
     "mobile": "8008415560",
-    "percentage": 22.28
+    "percentage": 28.51,
+    "total_electors": 1452,
+    "mapped_electors": 414,
+    "unmapped_electors": 1038,
+    "anomalies": 113
   },
   {
     "sl_no": 2,
@@ -1905,7 +2749,11 @@
     "name": "M Vijaya Laxmi",
     "designation": "Anganwadi Teacher",
     "mobile": "8712002166",
-    "percentage": 30.78
+    "percentage": 39.98,
+    "total_electors": 1263,
+    "mapped_electors": 505,
+    "unmapped_electors": 758,
+    "anomalies": 188
   },
   {
     "sl_no": 3,
@@ -1914,7 +2762,11 @@
     "name": "Md. Ansar Ali",
     "designation": "Record Assistant",
     "mobile": "6303114193",
-    "percentage": 25.33
+    "percentage": 35.11,
+    "total_electors": 1410,
+    "mapped_electors": 495,
+    "unmapped_electors": 915,
+    "anomalies": 156
   },
   {
     "sl_no": 4,
@@ -1923,7 +2775,11 @@
     "name": "Sana Salvana",
     "designation": "Sr.Asst",
     "mobile": "9052428312",
-    "percentage": 52.61
+    "percentage": 57.37,
+    "total_electors": 1527,
+    "mapped_electors": 876,
+    "unmapped_electors": 651,
+    "anomalies": 181
   },
   {
     "sl_no": 5,
@@ -1932,7 +2788,11 @@
     "name": "S GOPALA KRISHNA",
     "designation": "Sr.Asst",
     "mobile": "9398947705",
-    "percentage": 33.08
+    "percentage": 44.55,
+    "total_electors": 1322,
+    "mapped_electors": 589,
+    "unmapped_electors": 733,
+    "anomalies": 120
   },
   {
     "sl_no": 6,
@@ -1941,7 +2801,11 @@
     "name": "SRI A RAJENDRA",
     "designation": "Sr.Asst",
     "mobile": "8247303539",
-    "percentage": 27.48
+    "percentage": 44.06,
+    "total_electors": 1548,
+    "mapped_electors": 682,
+    "unmapped_electors": 866,
+    "anomalies": 170
   },
   {
     "sl_no": 7,
@@ -1950,7 +2814,11 @@
     "name": "T VIMALA BAI",
     "designation": "Sr.Asst",
     "mobile": "8686692259",
-    "percentage": 39.56
+    "percentage": 49.13,
+    "total_electors": 1496,
+    "mapped_electors": 735,
+    "unmapped_electors": 761,
+    "anomalies": 248
   },
   {
     "sl_no": 8,
@@ -1959,7 +2827,11 @@
     "name": "B RAMESH",
     "designation": "Jr Asst",
     "mobile": "9959540038",
-    "percentage": 33.87
+    "percentage": 41.43,
+    "total_electors": 1528,
+    "mapped_electors": 633,
+    "unmapped_electors": 895,
+    "anomalies": 194
   },
   {
     "sl_no": 9,
@@ -1968,7 +2840,11 @@
     "name": "SRI MOHD ARSHADULLAKHAN",
     "designation": "Sr.Asst",
     "mobile": "9704625539",
-    "percentage": 42.95
+    "percentage": 49.61,
+    "total_electors": 1411,
+    "mapped_electors": 700,
+    "unmapped_electors": 711,
+    "anomalies": 172
   },
   {
     "sl_no": 10,
@@ -1977,7 +2853,11 @@
     "name": "JANGETI ANIL YADAV",
     "designation": "SFA",
     "mobile": "9291368671",
-    "percentage": 29.04
+    "percentage": 42.63,
+    "total_electors": 1541,
+    "mapped_electors": 657,
+    "unmapped_electors": 884,
+    "anomalies": 239
   },
   {
     "sl_no": 11,
@@ -1986,7 +2866,11 @@
     "name": "M Ravi Prasad",
     "designation": "Tax Inspector",
     "mobile": "7981013344",
-    "percentage": 22.71
+    "percentage": 39.93,
+    "total_electors": 1618,
+    "mapped_electors": 646,
+    "unmapped_electors": 972,
+    "anomalies": 219
   },
   {
     "sl_no": 12,
@@ -1995,7 +2879,11 @@
     "name": "SMT M MAMATHA,",
     "designation": "Sr.Asst",
     "mobile": "9390008848",
-    "percentage": 28.3
+    "percentage": 44.62,
+    "total_electors": 1533,
+    "mapped_electors": 684,
+    "unmapped_electors": 849,
+    "anomalies": 200
   },
   {
     "sl_no": 13,
@@ -2004,7 +2892,11 @@
     "name": "SRI D SRINIVASA RAO,",
     "designation": "Sr.Asst",
     "mobile": "9885845054",
-    "percentage": 33.3
+    "percentage": 37.08,
+    "total_electors": 1149,
+    "mapped_electors": 426,
+    "unmapped_electors": 723,
+    "anomalies": 133
   },
   {
     "sl_no": 14,
@@ -2013,7 +2905,11 @@
     "name": "K Ashok Kumar",
     "designation": "Sanitary Jawan",
     "mobile": "7780380456",
-    "percentage": 35.41
+    "percentage": 44.09,
+    "total_electors": 1218,
+    "mapped_electors": 537,
+    "unmapped_electors": 681,
+    "anomalies": 163
   },
   {
     "sl_no": 15,
@@ -2022,7 +2918,11 @@
     "name": "Md. Gayasuddin",
     "designation": "Sr.Asst",
     "mobile": "8886023786",
-    "percentage": 54.67
+    "percentage": 62.18,
+    "total_electors": 1388,
+    "mapped_electors": 863,
+    "unmapped_electors": 525,
+    "anomalies": 298
   },
   {
     "sl_no": 16,
@@ -2031,7 +2931,11 @@
     "name": "K.HARI KISHAN REDDY",
     "designation": "SFA",
     "mobile": "9866600124",
-    "percentage": 17.36
+    "percentage": 21.38,
+    "total_electors": 1511,
+    "mapped_electors": 323,
+    "unmapped_electors": 1188,
+    "anomalies": 110
   },
   {
     "sl_no": 17,
@@ -2040,7 +2944,11 @@
     "name": "SRI K NANDA KISHORE,",
     "designation": "Sr.Asst",
     "mobile": "9032234477",
-    "percentage": 40.53
+    "percentage": 45.19,
+    "total_electors": 1558,
+    "mapped_electors": 704,
+    "unmapped_electors": 854,
+    "anomalies": 227
   },
   {
     "sl_no": 18,
@@ -2049,7 +2957,11 @@
     "name": "SRI P GANGADHAR REDDY,",
     "designation": "Sr.Asst",
     "mobile": "9000109494",
-    "percentage": 22.2
+    "percentage": 28.65,
+    "total_electors": 1539,
+    "mapped_electors": 441,
+    "unmapped_electors": 1098,
+    "anomalies": 152
   },
   {
     "sl_no": 19,
@@ -2058,7 +2970,11 @@
     "name": "M SWARAJ",
     "designation": "Jr Asst",
     "mobile": "9701673170",
-    "percentage": 22.42
+    "percentage": 23.61,
+    "total_electors": 1512,
+    "mapped_electors": 357,
+    "unmapped_electors": 1155,
+    "anomalies": 90
   },
   {
     "sl_no": 20,
@@ -2067,7 +2983,11 @@
     "name": "MANDLA PRAVEEN KUMAR",
     "designation": "Typist",
     "mobile": "8125593829",
-    "percentage": 33.64
+    "percentage": 33.92,
+    "total_electors": 1300,
+    "mapped_electors": 441,
+    "unmapped_electors": 859,
+    "anomalies": 83
   },
   {
     "sl_no": 21,
@@ -2076,7 +2996,11 @@
     "name": "Monika",
     "designation": "Jr Asst",
     "mobile": "9989705328",
-    "percentage": 17.79
+    "percentage": 21.13,
+    "total_electors": 1254,
+    "mapped_electors": 265,
+    "unmapped_electors": 989,
+    "anomalies": 71
   },
   {
     "sl_no": 22,
@@ -2085,7 +3009,11 @@
     "name": "Syed Nouman Ahmed",
     "designation": "Jr Asst",
     "mobile": "9381020521",
-    "percentage": 26.73
+    "percentage": 30.14,
+    "total_electors": 1453,
+    "mapped_electors": 438,
+    "unmapped_electors": 1015,
+    "anomalies": 98
   },
   {
     "sl_no": 23,
@@ -2094,7 +3022,11 @@
     "name": "C. SRINIVAS",
     "designation": "SFA",
     "mobile": "9052679230",
-    "percentage": 32.94
+    "percentage": 37.9,
+    "total_electors": 1570,
+    "mapped_electors": 595,
+    "unmapped_electors": 975,
+    "anomalies": 156
   },
   {
     "sl_no": 24,
@@ -2103,7 +3035,11 @@
     "name": "K Laxmi Narayana",
     "designation": "Bill Collector",
     "mobile": "9989930180",
-    "percentage": 24.62
+    "percentage": 33.63,
+    "total_electors": 1585,
+    "mapped_electors": 533,
+    "unmapped_electors": 1052,
+    "anomalies": 142
   },
   {
     "sl_no": 25,
@@ -2112,7 +3048,11 @@
     "name": "B SaikiranGoud",
     "designation": "Jr Asst",
     "mobile": "7794990222",
-    "percentage": 23.13
+    "percentage": 31.24,
+    "total_electors": 1511,
+    "mapped_electors": 472,
+    "unmapped_electors": 1039,
+    "anomalies": 121
   },
   {
     "sl_no": 26,
@@ -2121,7 +3061,11 @@
     "name": "Syed Khaleel Ali",
     "designation": "Office Subordinate",
     "mobile": "9985588983",
-    "percentage": 33.51
+    "percentage": 40.56,
+    "total_electors": 1563,
+    "mapped_electors": 634,
+    "unmapped_electors": 929,
+    "anomalies": 104
   },
   {
     "sl_no": 27,
@@ -2130,7 +3074,11 @@
     "name": "AYESHA BEGUM",
     "designation": "Jr Asst",
     "mobile": "8099961482",
-    "percentage": 30.38
+    "percentage": 35.6,
+    "total_electors": 1517,
+    "mapped_electors": 540,
+    "unmapped_electors": 977,
+    "anomalies": 148
   },
   {
     "sl_no": 28,
@@ -2139,7 +3087,11 @@
     "name": "JB Ushodaya",
     "designation": "Jr Asst",
     "mobile": "9441338999",
-    "percentage": 32.24
+    "percentage": 35.38,
+    "total_electors": 1512,
+    "mapped_electors": 535,
+    "unmapped_electors": 977,
+    "anomalies": 136
   },
   {
     "sl_no": 29,
@@ -2148,7 +3100,11 @@
     "name": "MISS JUWERIYA TASNEEM",
     "designation": "Jr Asst",
     "mobile": "9849414308",
-    "percentage": 50.95
+    "percentage": 51.9,
+    "total_electors": 1264,
+    "mapped_electors": 656,
+    "unmapped_electors": 608,
+    "anomalies": 292
   },
   {
     "sl_no": 30,
@@ -2157,7 +3113,11 @@
     "name": "R Anjaiah",
     "designation": "Public Health Worker",
     "mobile": "9441780404",
-    "percentage": 17.46
+    "percentage": 21.28,
+    "total_electors": 1203,
+    "mapped_electors": 256,
+    "unmapped_electors": 947,
+    "anomalies": 105
   },
   {
     "sl_no": 31,
@@ -2166,7 +3126,11 @@
     "name": "Mohammed Ibrahim",
     "designation": "EFA",
     "mobile": "9246262885",
-    "percentage": 21.09
+    "percentage": 28.99,
+    "total_electors": 1152,
+    "mapped_electors": 334,
+    "unmapped_electors": 818,
+    "anomalies": 124
   },
   {
     "sl_no": 32,
@@ -2175,7 +3139,11 @@
     "name": "SRI K RAVI KUMAR",
     "designation": "Jr Asst",
     "mobile": "6300711021",
-    "percentage": 26.52
+    "percentage": 27.7,
+    "total_electors": 1036,
+    "mapped_electors": 287,
+    "unmapped_electors": 749,
+    "anomalies": 120
   },
   {
     "sl_no": 33,
@@ -2184,7 +3152,11 @@
     "name": "SRI M NAGARAJU",
     "designation": "GPO",
     "mobile": "7989969117",
-    "percentage": 12.54
+    "percentage": 21.8,
+    "total_electors": 1445,
+    "mapped_electors": 315,
+    "unmapped_electors": 1130,
+    "anomalies": 160
   },
   {
     "sl_no": 34,
@@ -2193,7 +3165,11 @@
     "name": "C Kistamma",
     "designation": "Anganwadi Teacher",
     "mobile": "7702000860",
-    "percentage": 25.16
+    "percentage": 25.38,
+    "total_electors": 1107,
+    "mapped_electors": 281,
+    "unmapped_electors": 826,
+    "anomalies": 52
   },
   {
     "sl_no": 35,
@@ -2202,7 +3178,11 @@
     "name": "T Satish Kumar",
     "designation": "Bill Collector",
     "mobile": "9618091193",
-    "percentage": 12.14
+    "percentage": 29.16,
+    "total_electors": 1197,
+    "mapped_electors": 349,
+    "unmapped_electors": 848,
+    "anomalies": 151
   },
   {
     "sl_no": 36,
@@ -2211,7 +3191,11 @@
     "name": "SRI MOHD JAVEED",
     "designation": "Jr Asst",
     "mobile": "9849679295",
-    "percentage": 33.6
+    "percentage": 35.72,
+    "total_electors": 1422,
+    "mapped_electors": 508,
+    "unmapped_electors": 914,
+    "anomalies": 164
   },
   {
     "sl_no": 37,
@@ -2220,7 +3204,11 @@
     "name": "K. Krupakaran",
     "designation": "Jr Asst",
     "mobile": "9948882608",
-    "percentage": 31.97
+    "percentage": 39.37,
+    "total_electors": 1425,
+    "mapped_electors": 561,
+    "unmapped_electors": 864,
+    "anomalies": 96
   },
   {
     "sl_no": 38,
@@ -2229,7 +3217,11 @@
     "name": "M RAKESH KUMAR",
     "designation": "Sr.Asst",
     "mobile": "9700899066",
-    "percentage": 18.91
+    "percentage": 29.68,
+    "total_electors": 1459,
+    "mapped_electors": 433,
+    "unmapped_electors": 1026,
+    "anomalies": 94
   },
   {
     "sl_no": 39,
@@ -2238,7 +3230,11 @@
     "name": "M A JABBAR",
     "designation": "Sr.Asst",
     "mobile": "9985076570",
-    "percentage": 30.93
+    "percentage": 37.93,
+    "total_electors": 1334,
+    "mapped_electors": 506,
+    "unmapped_electors": 828,
+    "anomalies": 112
   },
   {
     "sl_no": 40,
@@ -2247,7 +3243,11 @@
     "name": "C Mallesh",
     "designation": "EFA",
     "mobile": "9000286563",
-    "percentage": 23.62
+    "percentage": 27.94,
+    "total_electors": 1081,
+    "mapped_electors": 302,
+    "unmapped_electors": 779,
+    "anomalies": 54
   },
   {
     "sl_no": 10,
@@ -2256,7 +3256,11 @@
     "name": "M.Bhaskar",
     "designation": "Office Subordinate",
     "mobile": "9032861508",
-    "percentage": 25.83
+    "percentage": 32.53,
+    "total_electors": 1156,
+    "mapped_electors": 376,
+    "unmapped_electors": 780,
+    "anomalies": 120
   },
   {
     "sl_no": 11,
@@ -2265,7 +3269,11 @@
     "name": "Nadeem",
     "designation": "EFA",
     "mobile": "6300401080",
-    "percentage": 33.51
+    "percentage": 36.89,
+    "total_electors": 1190,
+    "mapped_electors": 439,
+    "unmapped_electors": 751,
+    "anomalies": 112
   },
   {
     "sl_no": 12,
@@ -2274,7 +3282,11 @@
     "name": "N Yeshoda",
     "designation": "Anganwadi Teacher",
     "mobile": "9603504863",
-    "percentage": 25.83
+    "percentage": 31.19,
+    "total_electors": 1430,
+    "mapped_electors": 446,
+    "unmapped_electors": 984,
+    "anomalies": 120
   },
   {
     "sl_no": 13,
@@ -2283,7 +3295,11 @@
     "name": "Bharathamma",
     "designation": "Anganwadi Teacher",
     "mobile": "8712001485",
-    "percentage": 29.18
+    "percentage": 29.66,
+    "total_electors": 1217,
+    "mapped_electors": 361,
+    "unmapped_electors": 856,
+    "anomalies": 83
   },
   {
     "sl_no": 14,
@@ -2292,7 +3308,11 @@
     "name": "CHALLAPURAM ARCHANA",
     "designation": "Jr Asst",
     "mobile": "9032664604",
-    "percentage": 31.92
+    "percentage": 35.45,
+    "total_electors": 1385,
+    "mapped_electors": 491,
+    "unmapped_electors": 894,
+    "anomalies": 211
   },
   {
     "sl_no": 15,
@@ -2301,7 +3321,11 @@
     "name": "Sunitha",
     "designation": "Anganwadi Teacher",
     "mobile": "8179718518",
-    "percentage": 12.48
+    "percentage": 16.72,
+    "total_electors": 1471,
+    "mapped_electors": 246,
+    "unmapped_electors": 1225,
+    "anomalies": 134
   },
   {
     "sl_no": 16,
@@ -2310,7 +3334,11 @@
     "name": "A.KRISHNA",
     "designation": "SFA",
     "mobile": "7386697303",
-    "percentage": 5.38
+    "percentage": 10.3,
+    "total_electors": 1058,
+    "mapped_electors": 109,
+    "unmapped_electors": 949,
+    "anomalies": 59
   },
   {
     "sl_no": 17,
@@ -2319,7 +3347,11 @@
     "name": "M PRAVEEN KUMAR",
     "designation": "Sr.Asst",
     "mobile": "8143385147",
-    "percentage": 27.06
+    "percentage": 38.92,
+    "total_electors": 1051,
+    "mapped_electors": 409,
+    "unmapped_electors": 642,
+    "anomalies": 106
   },
   {
     "sl_no": 18,
@@ -2328,7 +3360,11 @@
     "name": "VANNADA SHEKHAR",
     "designation": "Sr.Asst",
     "mobile": "6262545416",
-    "percentage": 29.25
+    "percentage": 42.87,
+    "total_electors": 1122,
+    "mapped_electors": 481,
+    "unmapped_electors": 641,
+    "anomalies": 108
   },
   {
     "sl_no": 19,
@@ -2337,7 +3373,11 @@
     "name": "C Lavanya",
     "designation": "Office Subordinate",
     "mobile": "8639854639",
-    "percentage": 28.54
+    "percentage": 31.89,
+    "total_electors": 1085,
+    "mapped_electors": 346,
+    "unmapped_electors": 739,
+    "anomalies": 69
   },
   {
     "sl_no": 20,
@@ -2346,7 +3386,11 @@
     "name": "Manoj Kumar",
     "designation": "Sanitary Jawan",
     "mobile": "9848642154",
-    "percentage": 21.13
+    "percentage": 30.88,
+    "total_electors": 1360,
+    "mapped_electors": 420,
+    "unmapped_electors": 940,
+    "anomalies": 138
   },
   {
     "sl_no": 21,
@@ -2355,7 +3399,11 @@
     "name": "J. Pushpamma",
     "designation": "Sr.Asst",
     "mobile": "9618566876",
-    "percentage": 24.68
+    "percentage": 31.04,
+    "total_electors": 1456,
+    "mapped_electors": 452,
+    "unmapped_electors": 1004,
+    "anomalies": 111
   },
   {
     "sl_no": 22,
@@ -2364,7 +3412,11 @@
     "name": "Syed Ausaf Uddin",
     "designation": "Jr Asst",
     "mobile": "8919382715",
-    "percentage": 23.87
+    "percentage": 28.8,
+    "total_electors": 1396,
+    "mapped_electors": 402,
+    "unmapped_electors": 994,
+    "anomalies": 80
   },
   {
     "sl_no": 23,
@@ -2373,7 +3425,11 @@
     "name": "T VIKRAM TEJA",
     "designation": "Sr.Asst",
     "mobile": "9618227728",
-    "percentage": 16.82
+    "percentage": 30.3,
+    "total_electors": 967,
+    "mapped_electors": 293,
+    "unmapped_electors": 674,
+    "anomalies": 69
   },
   {
     "sl_no": 24,
@@ -2382,7 +3438,11 @@
     "name": "K VENKAT RAMANA REDDY",
     "designation": "Jr Asst",
     "mobile": "9849102185",
-    "percentage": 27.31
+    "percentage": 33.79,
+    "total_electors": 796,
+    "mapped_electors": 269,
+    "unmapped_electors": 527,
+    "anomalies": 64
   },
   {
     "sl_no": 25,
@@ -2391,7 +3451,11 @@
     "name": "M RAJINI",
     "designation": "Sr.Asst",
     "mobile": "9030050141",
-    "percentage": 26.06
+    "percentage": 35.0,
+    "total_electors": 1217,
+    "mapped_electors": 426,
+    "unmapped_electors": 791,
+    "anomalies": 124
   },
   {
     "sl_no": 26,
@@ -2400,7 +3464,11 @@
     "name": "Shaik Khaled",
     "designation": "Record Assistant",
     "mobile": "9989312642",
-    "percentage": 29.89
+    "percentage": 36.86,
+    "total_electors": 936,
+    "mapped_electors": 345,
+    "unmapped_electors": 591,
+    "anomalies": 95
   },
   {
     "sl_no": 27,
@@ -2409,7 +3477,11 @@
     "name": "SMT MOHAMOODA BEGUM",
     "designation": "Sr.Asst",
     "mobile": "9885586907",
-    "percentage": 22.72
+    "percentage": 39.04,
+    "total_electors": 1058,
+    "mapped_electors": 413,
+    "unmapped_electors": 645,
+    "anomalies": 126
   },
   {
     "sl_no": 28,
@@ -2418,7 +3490,11 @@
     "name": "Raju",
     "designation": "Public Health Worker",
     "mobile": "7601031693",
-    "percentage": 28.68
+    "percentage": 45.59,
+    "total_electors": 974,
+    "mapped_electors": 444,
+    "unmapped_electors": 530,
+    "anomalies": 163
   },
   {
     "sl_no": 29,
@@ -2427,7 +3503,11 @@
     "name": "Chandrakanth",
     "designation": "Public Health Worker",
     "mobile": "8688687535",
-    "percentage": 15.35
+    "percentage": 35.61,
+    "total_electors": 716,
+    "mapped_electors": 255,
+    "unmapped_electors": 461,
+    "anomalies": 101
   },
   {
     "sl_no": 30,
@@ -2436,7 +3516,11 @@
     "name": "BANOTH GANGA MANI",
     "designation": "Senior Translator",
     "mobile": "9491338626",
-    "percentage": 18.6
+    "percentage": 26.57,
+    "total_electors": 858,
+    "mapped_electors": 228,
+    "unmapped_electors": 630,
+    "anomalies": 63
   },
   {
     "sl_no": 31,
@@ -2445,7 +3529,11 @@
     "name": "S Ramesh",
     "designation": "Sanitary Jawan",
     "mobile": "9182317190",
-    "percentage": 29.35
+    "percentage": 33.79,
+    "total_electors": 802,
+    "mapped_electors": 271,
+    "unmapped_electors": 531,
+    "anomalies": 72
   },
   {
     "sl_no": 32,
@@ -2454,7 +3542,11 @@
     "name": "B Shravan Kumar",
     "designation": "Jr Asst",
     "mobile": "9676796177",
-    "percentage": 26.83
+    "percentage": 36.99,
+    "total_electors": 1149,
+    "mapped_electors": 425,
+    "unmapped_electors": 724,
+    "anomalies": 135
   },
   {
     "sl_no": 33,
@@ -2463,7 +3555,11 @@
     "name": "KONDI SAILAJA",
     "designation": "Senior Translator",
     "mobile": "9908102048",
-    "percentage": 32.49
+    "percentage": 40.72,
+    "total_electors": 1201,
+    "mapped_electors": 489,
+    "unmapped_electors": 712,
+    "anomalies": 174
   },
   {
     "sl_no": 34,
@@ -2472,7 +3568,11 @@
     "name": "PEDDINTI SRINIVAS VENKATA",
     "designation": "Senior Translator",
     "mobile": "9966551697",
-    "percentage": 25.53
+    "percentage": 33.88,
+    "total_electors": 1331,
+    "mapped_electors": 451,
+    "unmapped_electors": 880,
+    "anomalies": 157
   },
   {
     "sl_no": 35,
@@ -2481,6 +3581,10 @@
     "name": "RANGARAJU SRIKANTH RAO",
     "designation": "Senior Translator",
     "mobile": "9014849580",
-    "percentage": 27.74
+    "percentage": 39.07,
+    "total_electors": 1500,
+    "mapped_electors": 586,
+    "unmapped_electors": 914,
+    "anomalies": 194
   }
 ]

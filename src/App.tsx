@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react';
 import { PieChart, Pie, Cell, BarChart, Bar, XAxis, YAxis, Tooltip as RechartsTooltip, ResponsiveContainer, Legend } from 'recharts';
-import { Users, Activity, Target, X, Download, FilterX, Phone } from 'lucide-react';
+import { Users, Activity, Target, X, Download, FilterX, Phone, FileText, UserCheck, AlertTriangle } from 'lucide-react';
 import data from './data.json';
 import './index.css';
 
@@ -12,6 +12,10 @@ interface BLOData {
   designation: string;
   mobile: string;
   percentage: number;
+  total_electors?: number;
+  mapped_electors?: number;
+  unmapped_electors?: number;
+  anomalies?: number;
 }
 
 type FilterType = { type: 'all' } | { type: 'high_performers' } | { type: 'designation', value: string } | { type: 'aero', value: number };
@@ -50,9 +54,15 @@ function App() {
     }));
   }, [activeFilter]);
 
+  // Constituency-wide aggregates
   const totalBLOs = data.length;
   const avgPercentage = (data.reduce((acc, curr) => acc + curr.percentage, 0) / totalBLOs).toFixed(2);
   const highPerformers = data.filter(d => d.percentage >= 50).length;
+
+  const totalElectors = useMemo(() => data.reduce((acc, curr) => acc + (curr.total_electors || 0), 0), []);
+  const totalMappedElectors = useMemo(() => data.reduce((acc, curr) => acc + (curr.mapped_electors || 0), 0), []);
+  const totalAnomalies = useMemo(() => data.reduce((acc, curr) => acc + (curr.anomalies || 0), 0), []);
+  const overallPercentMapped = useMemo(() => ((totalMappedElectors / totalElectors) * 100).toFixed(2), [totalMappedElectors, totalElectors]);
 
   // Process data for Pie Chart (Designation Distribution)
   const pieData = useMemo(() => {
@@ -106,10 +116,10 @@ function App() {
       <header className="header animate-fade-in">
         <div className="header-content">
           <div className="header-title-container">
-            <h1>BLO Mapping Overview NAMPALLY CONSITUENCY</h1>
+            <h1>BLO Mapping Overview NAMPALLY CONSTITUENCY</h1>
             <div className="data-date-badge">
               <span className="dot"></span>
-              Data up to 12 May 2026 only
+              Data updated 19 May 2026
             </div>
           </div>
           <div className="header-actions">
@@ -119,6 +129,7 @@ function App() {
         </div>
       </header>
 
+      {/* Main Aggregates Cards Row */}
       <section className="summary-cards animate-fade-in delay-1">
         <div className="card glass-panel interactive-card" onClick={() => setShowTotalModal(true)}>
           <div className="card-icon">
@@ -135,7 +146,7 @@ function App() {
             <Activity size={28} />
           </div>
           <div className="card-info">
-            <h3>Avg Percentage</h3>
+            <h3>Avg Completion</h3>
             <p>{avgPercentage}%</p>
             <span className="card-hint">Click to clear filters</span>
           </div>
@@ -148,6 +159,36 @@ function App() {
             <h3>High Performers</h3>
             <p>{highPerformers}</p>
             <span className="card-hint">Click to filter table</span>
+          </div>
+        </div>
+        <div className="card glass-panel">
+          <div className="card-icon" style={{color: '#0ea5e9', background: 'rgba(14, 165, 233, 0.1)'}}>
+            <FileText size={28} />
+          </div>
+          <div className="card-info">
+            <h3>Total Electors</h3>
+            <p>{totalElectors.toLocaleString('en-IN')}</p>
+            <span className="card-hint" style={{opacity: 1}}>Across 276 Parts</span>
+          </div>
+        </div>
+        <div className="card glass-panel">
+          <div className="card-icon" style={{color: 'var(--success)', background: 'rgba(22, 163, 74, 0.1)'}}>
+            <UserCheck size={28} />
+          </div>
+          <div className="card-info">
+            <h3>Overall Mapped</h3>
+            <p>{overallPercentMapped}%</p>
+            <span className="card-hint" style={{opacity: 1}}>{totalMappedElectors.toLocaleString('en-IN')} Electors</span>
+          </div>
+        </div>
+        <div className="card glass-panel" style={{border: '1px solid rgba(239, 68, 68, 0.25)'}}>
+          <div className="card-icon" style={{color: 'var(--danger)', background: 'rgba(239, 68, 68, 0.1)'}}>
+            <AlertTriangle size={28} />
+          </div>
+          <div className="card-info">
+            <h3>Total Anomalies</h3>
+            <p>{totalAnomalies.toLocaleString('en-IN')}</p>
+            <span className="card-hint" style={{opacity: 1, color: 'var(--danger)'}}>Require correction</span>
           </div>
         </div>
       </section>
@@ -216,7 +257,7 @@ function App() {
           <h2>
             Detailed BLO Report 
             <span style={{color: 'var(--text-muted)', fontWeight: 'normal', fontSize: '0.9rem', marginLeft: '10px'}}>
-              (Ranked Lowest to Highest)
+              (Ranked Lowest to Highest Completion)
             </span>
           </h2>
           
@@ -234,18 +275,20 @@ function App() {
           <table>
             <thead>
               <tr>
-                <th>Rank / SL No</th>
+                <th>Rank</th>
                 <th>PS No</th>
                 <th>AERO</th>
-                <th>Name</th>
-                <th>Designation</th>
-                <th>Percentage</th>
+                <th>Officer Details</th>
+                <th>Total Electors</th>
+                <th>Mapped / Unmapped</th>
+                <th>Anomalies</th>
+                <th>Completion</th>
               </tr>
             </thead>
             <tbody>
               {filteredData.length === 0 ? (
                 <tr>
-                  <td colSpan={6} style={{textAlign: 'center', padding: '3rem', color: 'var(--text-muted)'}}>
+                  <td colSpan={8} style={{textAlign: 'center', padding: '3rem', color: 'var(--text-muted)'}}>
                     No records found for the selected filter.
                   </td>
                 </tr>
@@ -255,8 +298,22 @@ function App() {
                     <td>#{row.computed_sl_no}</td>
                     <td>{row.ps_no}</td>
                     <td>{row.aero}</td>
-                    <td style={{ fontWeight: 600, color: 'var(--text-main)' }}>{row.name}</td>
-                    <td>{row.designation || 'N/A'}</td>
+                    <td>
+                      <div style={{ fontWeight: 600, color: 'var(--text-main)' }}>{row.name}</div>
+                      <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)', marginTop: '2px' }}>{row.designation || 'N/A'}</div>
+                    </td>
+                    <td style={{ fontWeight: 600 }}>{(row.total_electors || 0).toLocaleString('en-IN')}</td>
+                    <td style={{ fontSize: '0.85rem' }}>
+                      <span style={{ color: 'var(--success)', fontWeight: 600 }}>{(row.mapped_electors || 0).toLocaleString('en-IN')}</span>
+                      <span style={{ color: 'var(--text-muted)' }}> / </span>
+                      <span>{(row.unmapped_electors || 0).toLocaleString('en-IN')}</span>
+                    </td>
+                    <td style={{ 
+                      color: (row.anomalies || 0) > 0 ? 'var(--danger)' : 'var(--text-muted)',
+                      fontWeight: (row.anomalies || 0) > 0 ? 600 : 400
+                    }}>
+                      {(row.anomalies || 0).toLocaleString('en-IN')}
+                    </td>
                     <td>
                       <span className={`status-badge ${getStatusClass(row.percentage)}`}>
                         {row.percentage}%
@@ -284,7 +341,7 @@ function App() {
               <thead style={{ position: 'sticky', top: 0, zIndex: 10 }}>
                 <tr>
                   <th>Full Name</th>
-                  <th>PS No. (Part No)</th>
+                  <th>PS No.</th>
                   <th>Mobile Number</th>
                 </tr>
               </thead>
@@ -342,9 +399,31 @@ function App() {
                   <div className="detail-label">Mobile Number</div>
                   <div className="detail-value">{selectedRow.mobile}</div>
                 </div>
-                <div className="detail-item" style={{gridColumn: '1 / -1'}}>
+                <div className="detail-item">
                   <div className="detail-label">AERO Division</div>
                   <div className="detail-value">{selectedRow.aero}</div>
+                </div>
+                <div className="detail-item">
+                  <div className="detail-label">Total Electors</div>
+                  <div className="detail-value">{(selectedRow.total_electors || 0).toLocaleString('en-IN')}</div>
+                </div>
+                <div className="detail-item">
+                  <div className="detail-label">Mapped Electors</div>
+                  <div className="detail-value" style={{color: 'var(--success)'}}>
+                    {(selectedRow.mapped_electors || 0).toLocaleString('en-IN')}
+                  </div>
+                </div>
+                <div className="detail-item">
+                  <div className="detail-label">Unmapped Electors</div>
+                  <div className="detail-value">
+                    {(selectedRow.unmapped_electors || 0).toLocaleString('en-IN')}
+                  </div>
+                </div>
+                <div className="detail-item" style={{gridColumn: '1 / -1', background: 'rgba(239, 68, 68, 0.05)', border: '1px solid rgba(239, 68, 68, 0.15)'}}>
+                  <div className="detail-label" style={{color: 'var(--danger)'}}>Electors with Anomalies</div>
+                  <div className="detail-value" style={{color: 'var(--danger)'}}>
+                    {(selectedRow.anomalies || 0).toLocaleString('en-IN')}
+                  </div>
                 </div>
               </div>
             </div>
@@ -352,7 +431,7 @@ function App() {
         </div>
       </div>
 
-      {/* Designation Drill-down Chart Modal - Refactored to Responsive Performance Cards Grid */}
+      {/* Designation Drill-down Chart Modal */}
       <div className={`modal-overlay ${drilledDesignation ? 'active' : ''}`} onClick={() => setDrilledDesignation(null)}>
         <div className="modal-content" onClick={e => e.stopPropagation()} style={{maxWidth: '1200px'}}>
           <div className="modal-header">
@@ -390,7 +469,13 @@ function App() {
                         </div>
                       </div>
                       
-                      <div className="person-card-footer">
+                      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '0.5rem', fontSize: '0.8rem', marginTop: '0.5rem', borderTop: '1px solid rgba(0, 0, 0, 0.05)', paddingTop: '0.5rem' }}>
+                        <div><span style={{color: 'var(--text-muted)'}}>Electors:</span> <strong>{(person.total_electors || 0).toLocaleString('en-IN')}</strong></div>
+                        <div><span style={{color: 'var(--text-muted)'}}>Mapped:</span> <strong style={{color: 'var(--success)'}}>{(person.mapped_electors || 0).toLocaleString('en-IN')}</strong></div>
+                        <div><span style={{color: 'var(--text-muted)'}}>Anomalies:</span> <strong style={{color: (person.anomalies || 0) > 0 ? 'var(--danger)' : 'var(--text-muted)'}}>{(person.anomalies || 0).toLocaleString('en-IN')}</strong></div>
+                      </div>
+                      
+                      <div className="person-card-footer" style={{marginTop: '0.5rem'}}>
                         <Phone size={14} />
                         <span>{person.mobile}</span>
                       </div>
